@@ -36,6 +36,7 @@ We appreciate your contributions!
 - *[ECCV 2024 Workshop [AI for Visual Arts]](https://docs.google.com/forms/d/e/1FAIpQLSeEd5hx6QLMURTyn655TVSVYXUWR6_EzgBrwdNVek-3xPeI3g/viewform)*
 - *[ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
 - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
+- ...
 
 ## Expired Calls for Reviewers
 - *[ICML 2024 Workshop [AI for Science]](https://docs.google.com/forms/d/e/1FAIpQLSc9Ro5mpRTYcsX0jb2IOgXjmZCiof01QzQJZ5B1HEVG2Ob9TA/closedform)*
