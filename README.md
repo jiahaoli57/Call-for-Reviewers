@@ -5,6 +5,7 @@ Welcome to the **Call-for-Reviewers** repository! This project aims to collect t
 - [Why this Repository?](#why-this-repository)
 - [How to Contribute?](#how-to-contribute)
 - [Current Calls for Reviewers](#current-calls-for-reviewers)
+- [Star this Repository!](#star-this-repository)
 - [License](#license)
 
 
@@ -25,6 +26,9 @@ We appreciate your contributions!
 - [NeurIPS 2024 Workshop on Algorithmic Fairness through the lens of Metrics and Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSd3JutC6sPMMiNRfL6RL2x5Ig5j52_3H0o0BV96NI5fPDlqAg/viewform)
 - [ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)
 - [AISTATS 2025](https://docs.google.com/forms/d/e/1FAIpQLSfw2b8vxQjgLGnUcbSd2joW1LNlzLfpdaeHbUIHE7E5ynxd2g/viewform)
+
+## Star this Repository!: 
+The repository is updated regularly. Feel free to star this repository to receive notifications for updates.
 
 ## License
 
