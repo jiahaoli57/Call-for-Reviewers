@@ -27,7 +27,7 @@ We appreciate your contributions!
 - [ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)
 - [AISTATS 2025](https://docs.google.com/forms/d/e/1FAIpQLSfw2b8vxQjgLGnUcbSd2joW1LNlzLfpdaeHbUIHE7E5ynxd2g/viewform)
 
-## Star this Repository!: 
+## Star this Repository!
 The repository is updated regularly. Feel free to star this repository to receive notifications for updates.
 
 ## License
