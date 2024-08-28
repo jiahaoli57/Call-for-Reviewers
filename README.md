@@ -29,8 +29,10 @@ The repository is updated frequently. Feel free to star this repository to recei
 We encourage everyone to contribute to this repository by adding new calls as they become available.
 
 1.  Fork this repository to your GitHub account.
-2.  Add new self-recommendation links to the `README.md` file.  Please ensure the link format is clear and includes relevant information.
+2.  Add new "call for reviewers" links to the `README.md` file.  Please ensure the link format is clear and includes relevant information.
 3.  Submit a Pull Request.
+
+Alternatively, you can contribute by emailing me the "call for reviewers" links directly. Please send to [jiahaoli57@163.com]. I'll make sure to add them to the repository ASAP.
 
 We appreciate your contributions!
 
