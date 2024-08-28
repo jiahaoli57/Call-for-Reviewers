@@ -17,7 +17,7 @@ Participating as a reviewer is a great way to engage with the academic community
 We encourage everyone to contribute to this repository by adding new calls as they become available.
 
 1.  Fork this repository to your GitHub account.
-2.  Add new self-recommendation links to the `Readme.md` file.  Please ensure the link format is clear and includes relevant information.
+2.  Add new self-recommendation links to the `README.md` file.  Please ensure the link format is clear and includes relevant information.
 3.  Submit a Pull Request.
 
 We appreciate your contributions!
