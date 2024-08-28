@@ -32,7 +32,7 @@ We encourage everyone to contribute to this repository by adding new calls as th
 2.  Add new "call for reviewers" links to the `README.md` file.  Please ensure the link format is clear and includes relevant information.
 3.  Submit a Pull Request.
 
-Alternatively, you can contribute by emailing me the "call for reviewers" links directly. Please send to jiahaoli57@163.com. I'll make sure to add them to the repository ASAP.
+Alternatively, you can contribute by emailing me the "call for reviewers" links directly (jiahaoli57@163.com). I'll make sure to add them to the repository ASAP.
 
 We appreciate your contributions!
 
