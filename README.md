@@ -44,7 +44,7 @@ We appreciate your contributions!
 - *[NeurIPS 2023 Workshop [New in Machine Learning]](https://forms.gle/LTRbZoYWziC23XSAA)*
 
 ## :star: Star this Repository!
-The repository is updated regularly. Feel free to star this repository to receive notifications for updates.
+The repository is updated **frequently**. Feel free to star this repository to receive notifications for updates.
 
 ## License
 
