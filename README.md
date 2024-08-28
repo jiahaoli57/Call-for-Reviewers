@@ -1,18 +1,8 @@
 # Call-for-Reviewers
-Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top ML/AI conferences. By providing a centralized resource, we hope to help researchers and academics get involved in the peer review process.
+Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top ML/AI conferences. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
 
-
-## Why this Repository?
-Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
-
-## How to Contribute?
-We encourage everyone to contribute to this repository by adding new calls as they become available.
-
-1.  Fork this repository to your GitHub account.
-2.  Add new self-recommendation links to the `README.md` file.  Please ensure the link format is clear and includes relevant information.
-3.  Submit a Pull Request.
-
-We appreciate your contributions!
+## :star: Star this Repository!
+The repository is updated frequently. Feel free to star this repository to receive notifications for updates.
 
 ## Current Calls for Reviewers
 
@@ -35,8 +25,14 @@ We appreciate your contributions!
 - *[NeurIPS 2023 Workshop [Algorithmic Fairness through the Lens of Time]](https://forms.gle/oernBELkiKf5aGvW6)*
 - *[NeurIPS 2023 Workshop [New in Machine Learning]](https://forms.gle/LTRbZoYWziC23XSAA)*
 
-## :star: Star this Repository!
-The repository is updated frequently. Feel free to star this repository to receive notifications for updates.
+## How to Contribute?
+We encourage everyone to contribute to this repository by adding new calls as they become available.
+
+1.  Fork this repository to your GitHub account.
+2.  Add new self-recommendation links to the `README.md` file.  Please ensure the link format is clear and includes relevant information.
+3.  Submit a Pull Request.
+
+We appreciate your contributions!
 
 ## License
 
