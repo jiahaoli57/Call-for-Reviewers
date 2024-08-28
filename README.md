@@ -6,7 +6,7 @@ Welcome to the **Call-for-Reviewers** repository! This project aims to collect t
 - [How to Contribute?](#how-to-contribute)
 - [Current Calls for Reviewers](#current-calls-for-reviewers)
 - [Expired Calls for Reviewers](#expired-calls-for-reviewers)
-- [Star this Repository!](#star-this-repository)
+- [:star: Star this Repository!](#star-this-repository)
 - [License](#license)
 
 
@@ -32,7 +32,7 @@ We appreciate your contributions!
 - *[NeurIPS 2023 Workshop [Algorithmic Fairness through the Lens of Time]](https://forms.gle/oernBELkiKf5aGvW6)*
 - *[NeurIPS 2023 Workshop [New in Machine Learning]](https://forms.gle/LTRbZoYWziC23XSAA)*
 
-## Star this Repository!
+## :star: Star this Repository!
 The repository is updated regularly. Feel free to star this repository to receive notifications for updates.
 
 ## License
