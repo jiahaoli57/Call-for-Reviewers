@@ -1,5 +1,6 @@
 # Call-for-Reviewers
 Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top ML/AI conferences. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
+欢迎来到 **征集审稿人** 库！本项目旨在收集来自各种顶级 ML/AI 会议的最新 “征集审稿人” 链接。 以审稿人身份参与会议是参与学术界活动、提高个人简历质量、了解最新研究趋势的绝佳方式。
 
 ## :star: Star this Repository!
 The repository is updated frequently. Feel free to star this repository to receive notifications for updates.
