@@ -23,10 +23,14 @@ We appreciate your contributions!
 
 ## Current Calls for Reviewers
 
-- [NeurIPS 2024 Workshop [Algorithmic Fairness through the lens of Metrics and Evaluation]](https://forms.gle/oernBELkiKf5aGvW6)
-- [ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)
-- [AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)
+- *[NeurIPS 2024 Workshop [Algorithmic Fairness through the lens of Metrics and Evaluation]](https://forms.gle/oernBELkiKf5aGvW6)*
+- *[ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
+- *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
 
+## Expired Calls for Reviewers
+- *[NeurIPS 2023 Workshop [Algorithmic Fairness through the Lens of Time]](https://forms.gle/oernBELkiKf5aGvW6)*
+- *[NeurIPS 2023 Workshop [New in Machine Learning]](https://forms.gle/LTRbZoYWziC23XSAA)*
+- 
 ## Star this Repository!
 The repository is updated regularly. Feel free to star this repository to receive notifications for updates.
 
