@@ -1,5 +1,5 @@
 # Call-for-Reviewers
-Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top AI conferences. By providing a centralized resource, we hope to help researchers and academics get involved in the peer review process.
+Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top ML/AI conferences. By providing a centralized resource, we hope to help researchers and academics get involved in the peer review process.
 
 ## Table of Contents
 - [Why this Repository?](#why-this-repository)
