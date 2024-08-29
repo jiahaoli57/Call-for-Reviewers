@@ -24,7 +24,11 @@ The repository is updated frequently. Feel free to star this repository to recei
 - ...
 
 ## Expired Calls for Reviewers
+- *[ISSTA 2024](https://docs.google.com/forms/d/e/1FAIpQLSd49-9EbvGkGp_jBL4Mbv8FZunaalNOBR2h2YBLB27yK14i5w/closedform)*
+- *[NAACL 2024 Workshop [Student Research]](https://docs.google.com/forms/d/e/1FAIpQLScGOxyIlFDa3g5UzKFV621rXVwrQFaFVdDF5pDdmlR6FkeM6Q/viewform)*
+- *[NAACL 2024 Workshop [Queer in AI]](https://docs.google.com/forms/d/e/1FAIpQLScnv9YEpzkUFL4LTuWp2nLIRXuNhjvCnmJbf1zw0dH7Bndq0g/viewform)*
 - *[ICML 2024 Workshop [AI for Science]](https://docs.google.com/forms/d/e/1FAIpQLSc9Ro5mpRTYcsX0jb2IOgXjmZCiof01QzQJZ5B1HEVG2Ob9TA/closedform)*
+- *[ICML 2024 Workshop [Structured Probabilistic Inference & Generative Modeling]](https://docs.google.com/forms/d/e/1FAIpQLSe2VHtsVv1Emoc_veQFxocTVplC1DcSSpTV1FBEm62q6JfdYA/viewform)*
 - *[NeurIPS 2023 Workshop [Algorithmic Fairness through the Lens of Time]](https://forms.gle/oernBELkiKf5aGvW6)*
 - *[NeurIPS 2023 Workshop [New in Machine Learning]](https://forms.gle/LTRbZoYWziC23XSAA)*
 
