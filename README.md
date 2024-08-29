@@ -10,12 +10,14 @@ The repository is updated frequently. Feel free to star this repository to recei
 - *[LoG 2024](https://docs.google.com/forms/d/e/1FAIpQLSez4duReyGdDL6M2dH-_1lK5f8RLeztbdiLtc9Qazd4n0Xhlw/viewform)*
 - *[CoRL 2024](https://docs.google.com/forms/d/e/1FAIpQLSfZ_JYSqcAgC6kjzWP2_Z6BXRKgCwVnQsJ3-nnvlKU_NfjT1A/viewform)*
 - *[NeurIPS 2024 Ethics Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf2rSb39StaINrNhB5MUEbcKWnmp_z124cChe_McNWd8Kdo-g/viewform)*
+- *[NeurIPS 2024 Workshop [Unifying Representations in Neural Models]](https://docs.google.com/forms/d/e/1FAIpQLSc3zAjhSoxr6hse18UY7IsrJjx3eLZRerucRd3CUH1VD0LcYw/viewform)*
 - *[NeurIPS 2024 Workshop [Machine Learning and the Physical Sciences]](https://docs.google.com/forms/d/e/1FAIpQLSeND5Z34kydMmTtnvPLuTMO8nnV3OO9no5bT8N19udxtbGrKw/viewform)*
 - *[NeurIPS 2024 Workshop [Women in Machine Learning]](https://docs.google.com/forms/d/e/1FAIpQLSfNj7hc4coBvf6pJ_PjBMspH3NszPTcKOent1JwYSA72zz0oQ/viewform)*
 - *[NeurIPS 2024 Workshop [Symmetry and Geometry in Neural Representations]](https://docs.google.com/forms/d/e/1FAIpQLSePb6xB7RfHyBfOOevFCVEZTA0mR5-KSEVDkgyg86kvQiyoDw/viewform)*
 - *[NeurIPS 2024 Workshop [Mathematical Reasoning and AI]](https://forms.gle/BssMrXeGgfMfLLFH9)*
 - *[NeurIPS 2024 Workshop [Causality and Large Models]](https://docs.google.com/forms/d/e/1FAIpQLScllUlTlk4P-c7HYrgPw051YME2HoFyZgWEl_LaetJ59G1lyw/viewform)*
 - *[NeurIPS 2024 Workshop [Algorithmic Fairness through the lens of Metrics and Evaluation]](https://forms.gle/oernBELkiKf5aGvW6)*
+- *[NeurIPS 2024 Workshop [Time Series in the Age of Large Models]](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform)*
 - *[ECCV 2024 Workshop [AI for Visual Arts]](https://docs.google.com/forms/d/e/1FAIpQLSeEd5hx6QLMURTyn655TVSVYXUWR6_EzgBrwdNVek-3xPeI3g/viewform)*
 - *[ICLR 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
 - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
