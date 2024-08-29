@@ -17,7 +17,7 @@ The repository is updated frequently. Feel free to star this repository to recei
 - *[NeurIPS 2024 Workshop [Causality and Large Models]](https://docs.google.com/forms/d/e/1FAIpQLScllUlTlk4P-c7HYrgPw051YME2HoFyZgWEl_LaetJ59G1lyw/viewform)*
 - *[NeurIPS 2024 Workshop [Algorithmic Fairness through the lens of Metrics and Evaluation]](https://forms.gle/oernBELkiKf5aGvW6)*
 - *[ECCV 2024 Workshop [AI for Visual Arts]](https://docs.google.com/forms/d/e/1FAIpQLSeEd5hx6QLMURTyn655TVSVYXUWR6_EzgBrwdNVek-3xPeI3g/viewform)*
-- *[ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
+- *[ICLR 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
 - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
 - ...
 
