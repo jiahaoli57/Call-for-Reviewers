@@ -24,7 +24,7 @@ The repository is updated frequently. Feel free to star this repository to recei
 - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
 - ...
 
-### Journals
+Journals:
 - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
 - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
 - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
