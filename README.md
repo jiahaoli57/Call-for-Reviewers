@@ -6,7 +6,12 @@ The repository is updated frequently. Feel free to star this repository to recei
 
 ## Current Calls for Reviewers
 
+### Journals
+- *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
+- *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
 - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
+
+### Conferences
 - *[LoG 2024](https://docs.google.com/forms/d/e/1FAIpQLSez4duReyGdDL6M2dH-_1lK5f8RLeztbdiLtc9Qazd4n0Xhlw/viewform)*
 - *[CoRL 2024](https://docs.google.com/forms/d/e/1FAIpQLSfZ_JYSqcAgC6kjzWP2_Z6BXRKgCwVnQsJ3-nnvlKU_NfjT1A/viewform)*
 - *[NeurIPS 2024 Ethics Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf2rSb39StaINrNhB5MUEbcKWnmp_z124cChe_McNWd8Kdo-g/viewform)*
