@@ -10,6 +10,7 @@ The repository is updated frequently. Feel free to star this repository to recei
 - *[LoG 2024](https://docs.google.com/forms/d/e/1FAIpQLSez4duReyGdDL6M2dH-_1lK5f8RLeztbdiLtc9Qazd4n0Xhlw/viewform)*
 - *[CoRL 2024](https://docs.google.com/forms/d/e/1FAIpQLSfZ_JYSqcAgC6kjzWP2_Z6BXRKgCwVnQsJ3-nnvlKU_NfjT1A/viewform)*
 - *[NeurIPS 2024 Ethics Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf2rSb39StaINrNhB5MUEbcKWnmp_z124cChe_McNWd8Kdo-g/viewform)*
+- *[NeurIPS 2024 Workshop [Latinx in AI Research]](https://docs.google.com/forms/d/e/1FAIpQLSeNqddag6H6BbDFDoF0-ZvMiavCs58RfUG3zwfwBe4gecy4YA/viewform)*
 - *[NeurIPS 2024 Workshop [Machine Learning and Compression]](https://docs.google.com/forms/d/e/1FAIpQLScCa9k2dyfO8NYZfbmw-GVW6qjKyAbfoC7yj9wXHMIgIyzBVg/viewform)*
 - *[NeurIPS 2024 Workshop [Unifying Representations in Neural Models]](https://docs.google.com/forms/d/e/1FAIpQLSc3zAjhSoxr6hse18UY7IsrJjx3eLZRerucRd3CUH1VD0LcYw/viewform)*
 - *[NeurIPS 2024 Workshop [Machine Learning and the Physical Sciences]](https://docs.google.com/forms/d/e/1FAIpQLSeND5Z34kydMmTtnvPLuTMO8nnV3OO9no5bT8N19udxtbGrKw/viewform)*
