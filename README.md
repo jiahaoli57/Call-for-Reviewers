@@ -3,6 +3,7 @@ Welcome to the **Call-for-Reviewers** repository! This project aims to collect t
 
 ## :star: Star this Repository!
 The repository is updated frequently. Feel free to star (and watch) this repository to receive notifications for updates.
+兄弟们点个赞，手工收集不容易
 
 ## Current Calls for Reviewers
 Conferences:
