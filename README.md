@@ -34,6 +34,7 @@ Journals:
 - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
 
 ## Expired Calls for Reviewers
+- *[ICSE 2025](https://docs.google.com/forms/d/e/1FAIpQLSfak3xYDPh5UEnTCiRTR2XCyATXRIMHrDX-n4YUmaxG1f6QZg/closedform)* [Shadow PC]
 - *[ISSTA 2024](https://docs.google.com/forms/d/e/1FAIpQLSd49-9EbvGkGp_jBL4Mbv8FZunaalNOBR2h2YBLB27yK14i5w/closedform)*
 - *[NAACL 2024 Workshop [Student Research]](https://docs.google.com/forms/d/e/1FAIpQLScGOxyIlFDa3g5UzKFV621rXVwrQFaFVdDF5pDdmlR6FkeM6Q/viewform)*
 - *[NAACL 2024 Workshop [Queer in AI]](https://docs.google.com/forms/d/e/1FAIpQLScnv9YEpzkUFL4LTuWp2nLIRXuNhjvCnmJbf1zw0dH7Bndq0g/viewform)*
