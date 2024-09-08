@@ -2,7 +2,7 @@
 Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top ML/AI conferences. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
 
 ## :star: Star this Repository!
-The repository is updated frequently. Feel free to star this repository to receive notifications for updates.
+The repository is updated frequently. Feel free to star (and watch) this repository to receive notifications for updates.
 
 ## Current Calls for Reviewers
 Conferences:
