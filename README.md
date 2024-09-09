@@ -39,6 +39,7 @@ Journals:
 
 ## Expired Calls for Reviewers
 - *[ICSE 2025](https://docs.google.com/forms/d/e/1FAIpQLSfak3xYDPh5UEnTCiRTR2XCyATXRIMHrDX-n4YUmaxG1f6QZg/closedform)* [Shadow PC]
+- *[SIGMOD 2024 Availability and Reproducibility Committee](https://docs.google.com/forms/d/e/1FAIpQLSfmTuRIoNwozNgwOcgQiYTKrEMPLBPVps6Vn2odgqAOMpeNew/viewform)*
 - *[ISSTA 2024](https://docs.google.com/forms/d/e/1FAIpQLSd49-9EbvGkGp_jBL4Mbv8FZunaalNOBR2h2YBLB27yK14i5w/closedform)*
 - *[NAACL 2024 Workshop [Student Research]](https://docs.google.com/forms/d/e/1FAIpQLScGOxyIlFDa3g5UzKFV621rXVwrQFaFVdDF5pDdmlR6FkeM6Q/viewform)*
 - *[NAACL 2024 Workshop [Queer in AI]](https://docs.google.com/forms/d/e/1FAIpQLScnv9YEpzkUFL4LTuWp2nLIRXuNhjvCnmJbf1zw0dH7Bndq0g/viewform)*
