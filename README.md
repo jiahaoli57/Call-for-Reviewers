@@ -32,6 +32,7 @@ Conferences:
 - ...
 
 Journals:
+- *[T-ITS](https://docs.google.com/forms/d/e/1FAIpQLSdWTBKrFOlJ2fmm0j-tVWvgMy2JCGpCNNK8c80HTahaRgPdRA/viewform)* [Call for Associate Editors!!!! DDL: September 17, 2024]
 - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
 - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
 - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
