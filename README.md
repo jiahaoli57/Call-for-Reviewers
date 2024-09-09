@@ -8,8 +8,8 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 
 ## Current Calls for Reviewers
 Conferences:
-- *[MSR 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Self-Nomination for Junior PC!!!! DDL: September 15, 2024]
-- *[TechDebt 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Self-Nomination for Junior PC!!!! DDL: September 22, 2024]
+- *[MSR 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 15, 2024]
+- *[TechDebt 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 22, 2024]
 - *[LoG 2024](https://docs.google.com/forms/d/e/1FAIpQLSez4duReyGdDL6M2dH-_1lK5f8RLeztbdiLtc9Qazd4n0Xhlw/viewform)*
 - *[CoRL 2024](https://docs.google.com/forms/d/e/1FAIpQLSfZ_JYSqcAgC6kjzWP2_Z6BXRKgCwVnQsJ3-nnvlKU_NfjT1A/viewform)*
 - *[NeurIPS 2024 Ethics Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf2rSb39StaINrNhB5MUEbcKWnmp_z124cChe_McNWd8Kdo-g/viewform)*
@@ -38,7 +38,7 @@ Journals:
 - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
 
 ## Expired Calls for Reviewers
-- *[ICSE 2025](https://docs.google.com/forms/d/e/1FAIpQLSfak3xYDPh5UEnTCiRTR2XCyATXRIMHrDX-n4YUmaxG1f6QZg/closedform)* [Shadow PC]
+- *[ICSE 2025](https://docs.google.com/forms/d/e/1FAIpQLSfak3xYDPh5UEnTCiRTR2XCyATXRIMHrDX-n4YUmaxG1f6QZg/closedform)* [Call for Shadow PC]
 - *[SIGMOD 2024 Availability and Reproducibility Committee](https://docs.google.com/forms/d/e/1FAIpQLSfmTuRIoNwozNgwOcgQiYTKrEMPLBPVps6Vn2odgqAOMpeNew/viewform)* [DDL: August 10, 2024]
 - *[ISSTA 2024](https://docs.google.com/forms/d/e/1FAIpQLSd49-9EbvGkGp_jBL4Mbv8FZunaalNOBR2h2YBLB27yK14i5w/closedform)*
 - *[NAACL 2024 Workshop [Student Research]](https://docs.google.com/forms/d/e/1FAIpQLScGOxyIlFDa3g5UzKFV621rXVwrQFaFVdDF5pDdmlR6FkeM6Q/viewform)*
