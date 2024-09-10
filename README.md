@@ -1,6 +1,8 @@
 # Call-for-Reviewers
 Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top ML/AI conferences. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
 
+为了避免大家重复填写，从2024年9月11号开始，所有新添加的链接都会插在最前面，而不是像之前那样按照字母排序
+
 ## :star: Star this Repository!
 The repository is updated frequently. Feel free to star (and watch) this repository to receive notifications for updates.
 
@@ -8,35 +10,38 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 
 ## Current Calls for Reviewers
 Conferences:
-- *[MSR 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 15, 2024]
-- *[TechDebt 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 22, 2024]
-- *[LoG 2024](https://docs.google.com/forms/d/e/1FAIpQLSez4duReyGdDL6M2dH-_1lK5f8RLeztbdiLtc9Qazd4n0Xhlw/viewform)*
-- *[CoRL 2024](https://docs.google.com/forms/d/e/1FAIpQLSfZ_JYSqcAgC6kjzWP2_Z6BXRKgCwVnQsJ3-nnvlKU_NfjT1A/viewform)*
-- *[NeurIPS 2024 Ethics Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf2rSb39StaINrNhB5MUEbcKWnmp_z124cChe_McNWd8Kdo-g/viewform)*
-- *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
-- *[NeurIPS 2024 Workshop [Latinx in AI Research]](https://docs.google.com/forms/d/e/1FAIpQLSeNqddag6H6BbDFDoF0-ZvMiavCs58RfUG3zwfwBe4gecy4YA/viewform)*
-- *[NeurIPS 2024 Workshop [Machine Learning and Compression]](https://docs.google.com/forms/d/e/1FAIpQLScCa9k2dyfO8NYZfbmw-GVW6qjKyAbfoC7yj9wXHMIgIyzBVg/viewform)*
-- *[NeurIPS 2024 Workshop [Unifying Representations in Neural Models]](https://docs.google.com/forms/d/e/1FAIpQLSc3zAjhSoxr6hse18UY7IsrJjx3eLZRerucRd3CUH1VD0LcYw/viewform)*
-- *[NeurIPS 2024 Workshop [Machine Learning and the Physical Sciences]](https://docs.google.com/forms/d/e/1FAIpQLSeND5Z34kydMmTtnvPLuTMO8nnV3OO9no5bT8N19udxtbGrKw/viewform)*
-- *[NeurIPS 2024 Workshop [Women in Machine Learning]](https://docs.google.com/forms/d/e/1FAIpQLSfNj7hc4coBvf6pJ_PjBMspH3NszPTcKOent1JwYSA72zz0oQ/viewform)*
-- *[NeurIPS 2024 Workshop [Symmetry and Geometry in Neural Representations]](https://docs.google.com/forms/d/e/1FAIpQLSePb6xB7RfHyBfOOevFCVEZTA0mR5-KSEVDkgyg86kvQiyoDw/viewform)*
-- *[NeurIPS 2024 Workshop [Mathematical Reasoning and AI]](https://forms.gle/BssMrXeGgfMfLLFH9)*
-- *[NeurIPS 2024 Workshop [Causality and Large Models]](https://docs.google.com/forms/d/e/1FAIpQLScllUlTlk4P-c7HYrgPw051YME2HoFyZgWEl_LaetJ59G1lyw/viewform)*
-- *[NeurIPS 2024 Workshop [Algorithmic Fairness through the lens of Metrics and Evaluation]](https://forms.gle/oernBELkiKf5aGvW6)*
-- *[NeurIPS 2024 Workshop [Time Series in the Age of Large Models]](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform)*
-- *[EMNLP 2024 Workshop [Multilingual Representation Learning]](https://docs.google.com/forms/d/e/1FAIpQLSc7xpENgZObkiOpPXV01vlBjB2N7V33rgQ3qPHzyqzoa4wAUw/viewform)*
-- *[ECCV 2024 Workshop [AI for Visual Arts]](https://docs.google.com/forms/d/e/1FAIpQLSeEd5hx6QLMURTyn655TVSVYXUWR6_EzgBrwdNVek-3xPeI3g/viewform)*
-- *[ICLR 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
-- *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
-- *[SANER 2025 Workshop [Mining Software Repositories Applications for Privacy and Security]](https://docs.google.com/forms/d/e/1FAIpQLSe7qTDpXd4ZTLhsz0-AhDp-jrt9KYoK-xiPt93Gz-hM17_b9A/viewform)*
-- ...
+- 2024.09.11
+  - *[NeurIPS 2024 Workshop [Bayesian Decision-making and Uncertainty]](https://docs.google.com/forms/d/e/1FAIpQLSck5qebBOpjp0CiFzkXzjyXH9NNPvZSStlrNntNeP1VIjN6Wg/viewform)*
+- 2024.09.10
+  - *[MSR 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 15, 2024]
+  - *[TechDebt 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 22, 2024]
+  - *[LoG 2024](https://docs.google.com/forms/d/e/1FAIpQLSez4duReyGdDL6M2dH-_1lK5f8RLeztbdiLtc9Qazd4n0Xhlw/viewform)*
+  - *[CoRL 2024](https://docs.google.com/forms/d/e/1FAIpQLSfZ_JYSqcAgC6kjzWP2_Z6BXRKgCwVnQsJ3-nnvlKU_NfjT1A/viewform)*
+  - *[NeurIPS 2024 Ethics Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf2rSb39StaINrNhB5MUEbcKWnmp_z124cChe_McNWd8Kdo-g/viewform)*
+  - *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
+  - *[NeurIPS 2024 Workshop [Latinx in AI Research]](https://docs.google.com/forms/d/e/1FAIpQLSeNqddag6H6BbDFDoF0-ZvMiavCs58RfUG3zwfwBe4gecy4YA/viewform)*
+  - *[NeurIPS 2024 Workshop [Machine Learning and Compression]](https://docs.google.com/forms/d/e/1FAIpQLScCa9k2dyfO8NYZfbmw-GVW6qjKyAbfoC7yj9wXHMIgIyzBVg/viewform)*
+  - *[NeurIPS 2024 Workshop [Unifying Representations in Neural Models]](https://docs.google.com/forms/d/e/1FAIpQLSc3zAjhSoxr6hse18UY7IsrJjx3eLZRerucRd3CUH1VD0LcYw/viewform)*
+  - *[NeurIPS 2024 Workshop [Machine Learning and the Physical Sciences]](https://docs.google.com/forms/d/e/1FAIpQLSeND5Z34kydMmTtnvPLuTMO8nnV3OO9no5bT8N19udxtbGrKw/viewform)*
+  - *[NeurIPS 2024 Workshop [Women in Machine Learning]](https://docs.google.com/forms/d/e/1FAIpQLSfNj7hc4coBvf6pJ_PjBMspH3NszPTcKOent1JwYSA72zz0oQ/viewform)*
+  - *[NeurIPS 2024 Workshop [Symmetry and Geometry in Neural Representations]](https://docs.google.com/forms/d/e/1FAIpQLSePb6xB7RfHyBfOOevFCVEZTA0mR5-KSEVDkgyg86kvQiyoDw/viewform)*
+  - *[NeurIPS 2024 Workshop [Mathematical Reasoning and AI]](https://forms.gle/BssMrXeGgfMfLLFH9)*
+  - *[NeurIPS 2024 Workshop [Causality and Large Models]](https://docs.google.com/forms/d/e/1FAIpQLScllUlTlk4P-c7HYrgPw051YME2HoFyZgWEl_LaetJ59G1lyw/viewform)*
+  - *[NeurIPS 2024 Workshop [Algorithmic Fairness through the lens of Metrics and Evaluation]](https://forms.gle/oernBELkiKf5aGvW6)*
+  - *[NeurIPS 2024 Workshop [Time Series in the Age of Large Models]](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform)*
+  - *[EMNLP 2024 Workshop [Multilingual Representation Learning]](https://docs.google.com/forms/d/e/1FAIpQLSc7xpENgZObkiOpPXV01vlBjB2N7V33rgQ3qPHzyqzoa4wAUw/viewform)*
+  - *[ECCV 2024 Workshop [AI for Visual Arts]](https://docs.google.com/forms/d/e/1FAIpQLSeEd5hx6QLMURTyn655TVSVYXUWR6_EzgBrwdNVek-3xPeI3g/viewform)*
+  - *[ICLR 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
+  - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
+  - *[SANER 2025 Workshop [Mining Software Repositories Applications for Privacy and Security]](https://docs.google.com/forms/d/e/1FAIpQLSe7qTDpXd4ZTLhsz0-AhDp-jrt9KYoK-xiPt93Gz-hM17_b9A/viewform)*
 
 Journals:
-- *[T-ITS](https://docs.google.com/forms/d/e/1FAIpQLSdWTBKrFOlJ2fmm0j-tVWvgMy2JCGpCNNK8c80HTahaRgPdRA/viewform)* [Call for Associate Editors!!!! DDL: September 17, 2024]
-- *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
-- *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
-- *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
-- *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
+- 2024.09.10
+  - *[T-ITS](https://docs.google.com/forms/d/e/1FAIpQLSdWTBKrFOlJ2fmm0j-tVWvgMy2JCGpCNNK8c80HTahaRgPdRA/viewform)* [Call for Associate Editors!!!! DDL: September 17, 2024]
+  - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
+  - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
+  - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
+  - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
 
 ## Expired Calls for Reviewers
 - *[ICSE 2025](https://docs.google.com/forms/d/e/1FAIpQLSfak3xYDPh5UEnTCiRTR2XCyATXRIMHrDX-n4YUmaxG1f6QZg/closedform)* [Call for Shadow PC]
