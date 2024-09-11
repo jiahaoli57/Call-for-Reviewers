@@ -11,6 +11,11 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 ## Current Calls for Reviewers
 Conferences:
 - 2024.09.12
+  - *[ICWSM 2025](https://new.precisionconference.com/review_volunteering)*
+  - *[ECIS 2025](https://new.precisionconference.com/review_volunteering)*
+  - *[PACIS 2025](https://new.precisionconference.com/review_volunteering)*
+  - *[CHI 2025](https://new.precisionconference.com/review_volunteering)* [CCF-A]
+  - *[IEEE VR 2025](https://new.precisionconference.com/review_volunteering)* [CCF-A]
   - *[CSCW 2025](https://www.surveymonkey.com/r/Z7ZGL55)* [CCF-A]
 - 2024.09.11
   - *[NeurIPS 2024 Workshop [Bayesian Decision-making and Uncertainty]](https://docs.google.com/forms/d/e/1FAIpQLSck5qebBOpjp0CiFzkXzjyXH9NNPvZSStlrNntNeP1VIjN6Wg/viewform)*
