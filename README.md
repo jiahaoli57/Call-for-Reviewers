@@ -11,7 +11,7 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 ## Current Calls for Reviewers
 Conferences:
 - 2024.09.12
-  - *[ICWSM 2025](https://new.precisionconference.com/review_volunteering)* [DDL: October 28, 2024]
+  - *[ICWSM 2025](https://new.precisionconference.com/review_volunteering)* [[知乎](https://www.zhihu.com/question/64638075/answer/579293667)]
   - *[ECIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems 相关的会议]
   - *[ICIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems 相关的会议]
   - *[PACIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems 相关的会议]
