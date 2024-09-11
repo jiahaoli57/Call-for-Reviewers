@@ -10,6 +10,8 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 
 ## Current Calls for Reviewers
 Conferences:
+- 2024.09.12
+  - *[CSCW 2025](https://www.surveymonkey.com/r/Z7ZGL55)* [CCF-A]
 - 2024.09.11
   - *[NeurIPS 2024 Workshop [Bayesian Decision-making and Uncertainty]](https://docs.google.com/forms/d/e/1FAIpQLSck5qebBOpjp0CiFzkXzjyXH9NNPvZSStlrNntNeP1VIjN6Wg/viewform)*
 - 2024.09.10
@@ -44,6 +46,7 @@ Journals:
   - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
 
 ## Expired Calls for Reviewers
+- *[ 2024](https://docs.google.com/forms/d/e/1FAIpQLSf_8VYchx8jo0EeoslumApo7M5lsvqHJL4p71CjEFWai3LNKA/viewform)* [CCF-A; DDL: August 22, 2024]
 - *[ICSE 2025](https://docs.google.com/forms/d/e/1FAIpQLSfak3xYDPh5UEnTCiRTR2XCyATXRIMHrDX-n4YUmaxG1f6QZg/closedform)* [Call for Shadow PC]
 - *[SIGMOD 2024 Availability and Reproducibility Committee](https://docs.google.com/forms/d/e/1FAIpQLSfmTuRIoNwozNgwOcgQiYTKrEMPLBPVps6Vn2odgqAOMpeNew/viewform)* [DDL: August 10, 2024]
 - *[ISSTA 2024](https://docs.google.com/forms/d/e/1FAIpQLSd49-9EbvGkGp_jBL4Mbv8FZunaalNOBR2h2YBLB27yK14i5w/closedform)*
