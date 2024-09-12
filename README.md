@@ -1,5 +1,5 @@
 # Call-for-Reviewers
-Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top CS/ML/AI conferences. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
+Welcome to the **Call-for-Reviewers** repository! This project aims to collect the latest "call for reviewers" links from various top CS/ML/AI conferences/journals. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
 
 为了避免大家重复填写，从2024年9月11号开始，所有新添加的链接都会插在最前面，而不是像之前那样按照字母排序
 
@@ -9,7 +9,10 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 每日更新，手工收集不容易，家人们点个赞 :star:
 
 ## Current Calls for Reviewers
-Conferences:
+
+- 2024.09.13
+  - *[AI Open](https://www.surveymonkey.com/r/B8LZBJK)* [[腾讯网](https://new.qq.com/rain/a/20240718A03X7300?suid=&media_id=), DDL: September 30, 2024]
+  - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [美国宇航局]
 - 2024.09.12
   - *[ICWSM 2025](https://new.precisionconference.com/review_volunteering)* [[知乎](https://www.zhihu.com/question/64638075/answer/579293667)]
   - *[ECIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems 相关的会议]
@@ -42,9 +45,7 @@ Conferences:
   - *[ICLR 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
   - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
   - *[SANER 2025 Workshop [Mining Software Repositories Applications for Privacy and Security]](https://docs.google.com/forms/d/e/1FAIpQLSe7qTDpXd4ZTLhsz0-AhDp-jrt9KYoK-xiPt93Gz-hM17_b9A/viewform)*
-
-Journals:
-- 2024.09.10
+- 2024.09.09
   - *[T-ITS](https://docs.google.com/forms/d/e/1FAIpQLSdWTBKrFOlJ2fmm0j-tVWvgMy2JCGpCNNK8c80HTahaRgPdRA/viewform)* [Call for Associate Editors!!!! DDL: September 17, 2024]
   - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
   - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
