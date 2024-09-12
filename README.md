@@ -1,5 +1,5 @@
 # Call-for-Reviewers
-Welcome to the 「Call-for-Reviewers」 repository! This project aims to collect the latest "call for reviewers" links from various top CS/ML/AI conferences/journals. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
+Welcome to the「Call-for-Reviewers」repository! This project aims to collect the latest "call for reviewers" links from various top CS/ML/AI conferences/journals. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
 
 为了避免大家重复填写，从2024年9月11号开始，所有新添加的链接都会插在最前面，而不是像之前那样按照字母排序
 
