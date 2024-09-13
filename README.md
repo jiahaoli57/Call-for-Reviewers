@@ -4,8 +4,6 @@ Welcome to the「Call-for-Reviewers」repository! This project aims to collect t
 ## :star: Star this Repository!
 The repository is updated frequently. Feel free to star (and watch) this repository to receive notifications for updates.
 
-每日更新，手工收集不容易，家人们点个赞 :star:
-
 尽管目前以本人手工收集为主，但在不久的未来，当「Call-for-Reviewers」 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种征集审稿人链接的
 
 ## Current Calls for Reviewers
