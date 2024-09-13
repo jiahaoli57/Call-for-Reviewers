@@ -92,3 +92,8 @@ We appreciate your contributions!
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jiahaoli57/Call-for-Reviewers&type=Timeline" />
  </picture>
 </a>
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
