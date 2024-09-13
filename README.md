@@ -38,7 +38,6 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
   - *[LoG 2024](https://docs.google.com/forms/d/e/1FAIpQLSez4duReyGdDL6M2dH-_1lK5f8RLeztbdiLtc9Qazd4n0Xhlw/viewform)*
   - *[CoRL 2024](https://docs.google.com/forms/d/e/1FAIpQLSfZ_JYSqcAgC6kjzWP2_Z6BXRKgCwVnQsJ3-nnvlKU_NfjT1A/viewform)*
   - *[NeurIPS 2024 Ethics Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf2rSb39StaINrNhB5MUEbcKWnmp_z124cChe_McNWd8Kdo-g/viewform)*
-  - *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
   - *[NeurIPS 2024 Workshop [Latinx in AI Research]](https://docs.google.com/forms/d/e/1FAIpQLSeNqddag6H6BbDFDoF0-ZvMiavCs58RfUG3zwfwBe4gecy4YA/viewform)*
   - *[NeurIPS 2024 Workshop [Machine Learning and Compression]](https://docs.google.com/forms/d/e/1FAIpQLScCa9k2dyfO8NYZfbmw-GVW6qjKyAbfoC7yj9wXHMIgIyzBVg/viewform)*
   - *[NeurIPS 2024 Workshop [Unifying Representations in Neural Models]](https://docs.google.com/forms/d/e/1FAIpQLSc3zAjhSoxr6hse18UY7IsrJjx3eLZRerucRd3CUH1VD0LcYw/viewform)*
@@ -55,6 +54,7 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
   - *[T-ITS](https://docs.google.com/forms/d/e/1FAIpQLSdWTBKrFOlJ2fmm0j-tVWvgMy2JCGpCNNK8c80HTahaRgPdRA/viewform)* [Call for Associate Editors!!!! DDL: September 17, 2024]
 
 ## Expired Calls for Reviewers
+- *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
 - *[NeurIPS 2024 Workshop [Women in Machine Learning]](https://docs.google.com/forms/d/e/1FAIpQLSfNj7hc4coBvf6pJ_PjBMspH3NszPTcKOent1JwYSA72zz0oQ/viewform)*
 - *[NeurIPS 2024 Workshop [Time Series in the Age of Large Models]](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform)*
 - *[EMNLP 2024 Workshop [Multilingual Representation Learning]](https://docs.google.com/forms/d/e/1FAIpQLSc7xpENgZObkiOpPXV01vlBjB2N7V33rgQ3qPHzyqzoa4wAUw/viewform)*
