@@ -13,9 +13,11 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 ## Current Calls for Reviewers
 
 - 2024.09.13
+  - *[NeurIPS 2024 Workshop [Foundation Models for Science: Progress, Opportunities, and Challenges]](https://docs.google.com/forms/d/e/1FAIpQLSfqSRyG-f-gDyCFqEiSOi-NduD1hzYWKcg8QP0WuafMa60w9g/viewform)* [DDL: October 6, 2024]
+- 2024.09.12
   - *[AI Open](https://www.surveymonkey.com/r/B8LZBJK)* [[腾讯网](https://new.qq.com/rain/a/20240718A03X7300?suid=&media_id=), DDL: September 30, 2024]
   - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [美国宇航局]
-- 2024.09.12
+- 2024.09.11
   - *[ICWSM 2025](https://new.precisionconference.com/review_volunteering)* [[知乎](https://www.zhihu.com/question/64638075/answer/579293667)]
   - *[ECIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems 相关的会议]
   - *[ICIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems 相关的会议]
@@ -23,7 +25,6 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
   - *[CHI 2025](https://new.precisionconference.com/review_volunteering)* [CCF-A]
   - *[IEEE VR 2025](https://new.precisionconference.com/review_volunteering)* [CCF-A]
   - *[CSCW 2025](https://www.surveymonkey.com/r/Z7ZGL55)* [CCF-A]
-- 2024.09.11
   - *[NeurIPS 2024 Workshop [Bayesian Decision-making and Uncertainty]](https://docs.google.com/forms/d/e/1FAIpQLSck5qebBOpjp0CiFzkXzjyXH9NNPvZSStlrNntNeP1VIjN6Wg/viewform)*
 - 2024.09.10
   - *[MSR 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 15, 2024]
