@@ -17,6 +17,7 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 ---
 
 - 2024.09.13
+  - *[NeurIPS 2024 Workshop [AI for Accelerated Materials Discovery]](https://docs.google.com/forms/d/e/1FAIpQLSfraxa4rFvWVzobYAaBv_By2k42k3hg0WhitLaoq6saQUX8cA/viewform)*
   - *[NeurIPS 2024 Workshop [Foundation Models for Science: Progress, Opportunities, and Challenges]](https://docs.google.com/forms/d/e/1FAIpQLSfqSRyG-f-gDyCFqEiSOi-NduD1hzYWKcg8QP0WuafMa60w9g/viewform)* [DDL: October 6, 2024]
   - *[ICLR 2025 Workshop [主题未知]](https://docs.google.com/forms/d/e/1FAIpQLSd0MSOj3rYlpai_wPvCUf6GwOR0hX1fEfTkGr5kBwOSNApmuw/viewform)* [[信息来源](https://x.com/EzgiKorkmazAI/status/1834177398822392169)]
 - 2024.09.12
