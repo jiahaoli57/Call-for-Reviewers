@@ -12,7 +12,7 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 
 ## Current Calls for Reviewers
 - **长期有效：**
-  - [MDPI](https://susy.mdpi.com/volunteer_reviewer_info) [很麻烦要填一大堆资料]
+  - [MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info) [很麻烦要填一大堆资料]
   - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
   - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
   - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
