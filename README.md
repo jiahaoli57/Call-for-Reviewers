@@ -1,12 +1,12 @@
 # Call-for-Reviewers
 Welcome to the「Call-for-Reviewers」repository! This project aims to collect the latest "call for reviewers" links from various top CS/ML/AI conferences/journals. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends.
 
-如果你在做计算机/机器学习/人工智能领域相关的研究，同时想积累一些审稿经验来申请 NIW/H1B/EB1（或者优化简历），可以看看这个库。这里收集了各大顶尖CS/ML/AI会议的最新“审稿人征集”link
+如果你在做计算机/机器学习/人工智能领域相关的研究，同时想积累一些审稿经验来申请 NIW/H1B/EB1（或者优化简历），可以看看这个库。这里收集了各大顶尖CS/ML/AI会议的最新“审稿人征集”链接
 
 ## :star: Star this Repository!
 The repository is updated frequently. Feel free to star (and watch) this repository to receive notifications for updates.
 
-尽管目前以本人手工收集为主，但在不久的未来，当「Call-for-Reviewers」 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种征集审稿人链接的
+尽管目前以本人手工收集为主，但在不久的未来，当「Call-for-Reviewers」 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种“审稿人征集”链接的
 
 ## Current Calls for Reviewers
 - **长期有效：**
