@@ -5,14 +5,6 @@
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种“审稿人征集”链接的
 
 ## Current Calls for Reviewers
-- **长期有效：**
-  - [MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info) [很麻烦要填一大堆资料]
-  - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
-  - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
-  - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
-  - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
-
----
 
 - 2024.09.14
   - *[IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/about-ras/latest-news/call-for-nominations-editors-and-associate-editors-for-ieee-transactions-on-automation-science-and-engineering-t-ase)* [Call for Editors and Associate Editors!!! DDL: October 1, 2024]
@@ -52,6 +44,15 @@
   - *[ICLR 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
   - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
   - *[SANER 2025 Workshop [Mining Software Repositories Applications for Privacy and Security]](https://docs.google.com/forms/d/e/1FAIpQLSe7qTDpXd4ZTLhsz0-AhDp-jrt9KYoK-xiPt93Gz-hM17_b9A/viewform)*
+
+---
+
+- **长期有效：**
+  - [MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info) [很麻烦要填一大堆资料]
+  - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
+  - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
+  - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
+  - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
 
 ## Expired Calls for Reviewers
 - *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
