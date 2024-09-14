@@ -19,7 +19,7 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 ---
 
 - 2024.09.14
-  - *[IEEE Transactions on Automation Science and Engineering(https://docs.google.com/forms/d/e/1FAIpQLSfqSRyG-f-gDyCFqEiSOi-NduD1hzYWKcg8QP0WuafMa60w9g/viewform)* [Call for Editors and Associate Editors!!! DDL: October 1, 2024]
+  - *[IEEE Transactions on Automation Science and Engineering](https://docs.google.com/forms/d/e/1FAIpQLSfqSRyG-f-gDyCFqEiSOi-NduD1hzYWKcg8QP0WuafMa60w9g/viewform)* [Call for Editors and Associate Editors!!! DDL: October 1, 2024]
 - 2024.09.13
   - *[NeurIPS 2024 Workshop [Foundation Models for Science: Progress, Opportunities, and Challenges]](https://docs.google.com/forms/d/e/1FAIpQLSfqSRyG-f-gDyCFqEiSOi-NduD1hzYWKcg8QP0WuafMa60w9g/viewform)* [DDL: October 6, 2024]
   - *[NeurIPS 2024 Workshop [AI for Accelerated Materials Discovery]](https://docs.google.com/forms/d/e/1FAIpQLSfraxa4rFvWVzobYAaBv_By2k42k3hg0WhitLaoq6saQUX8cA/viewform)*
