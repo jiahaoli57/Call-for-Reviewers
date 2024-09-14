@@ -18,6 +18,8 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
 
 ---
 
+- 2024.09.14
+  - *[IEEE Transactions on Automation Science and Engineering(https://docs.google.com/forms/d/e/1FAIpQLSfqSRyG-f-gDyCFqEiSOi-NduD1hzYWKcg8QP0WuafMa60w9g/viewform)* [Call for Editors and Associate Editors!!! DDL: October 1, 2024]
 - 2024.09.13
   - *[NeurIPS 2024 Workshop [Foundation Models for Science: Progress, Opportunities, and Challenges]](https://docs.google.com/forms/d/e/1FAIpQLSfqSRyG-f-gDyCFqEiSOi-NduD1hzYWKcg8QP0WuafMa60w9g/viewform)* [DDL: October 6, 2024]
   - *[NeurIPS 2024 Workshop [AI for Accelerated Materials Discovery]](https://docs.google.com/forms/d/e/1FAIpQLSfraxa4rFvWVzobYAaBv_By2k42k3hg0WhitLaoq6saQUX8cA/viewform)*
@@ -53,7 +55,7 @@ The repository is updated frequently. Feel free to star (and watch) this reposit
   - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
   - *[SANER 2025 Workshop [Mining Software Repositories Applications for Privacy and Security]](https://docs.google.com/forms/d/e/1FAIpQLSe7qTDpXd4ZTLhsz0-AhDp-jrt9KYoK-xiPt93Gz-hM17_b9A/viewform)*
 - 2024.09.09
-  - *[T-ITS](https://docs.google.com/forms/d/e/1FAIpQLSdWTBKrFOlJ2fmm0j-tVWvgMy2JCGpCNNK8c80HTahaRgPdRA/viewform)* [Call for Associate Editors!!!! DDL: September 17, 2024]
+  - *[IEEE Transactions on Intelligent Transportation Systems](https://docs.google.com/forms/d/e/1FAIpQLSdWTBKrFOlJ2fmm0j-tVWvgMy2JCGpCNNK8c80HTahaRgPdRA/viewform)* [Call for Associate Editors!!!! DDL: September 17, 2024]
 
 ## Expired Calls for Reviewers
 - *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
