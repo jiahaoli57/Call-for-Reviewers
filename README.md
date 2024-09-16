@@ -11,6 +11,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 - 2024.09.16
   - *[NeurIPS 2024 Workshop [Model Interventions]](https://docs.google.com/forms/d/e/1FAIpQLSd8Jcuz5b70qey9bJO4tyPdQMCnhsxYFpAG69abG-SYa85Y2g/viewform)*
   - *[AMLDA 2024 Workshop [Artificial Intelligence and Data Analytics]](https://docs.google.com/forms/d/e/1FAIpQLSfxbtrDjD1tv4l7jLRTFysQMDzdB5GmVb6GNJyqoGK_tIRGow/viewform)*
+  - *[IEEE ICPCT 2025](https://docs.google.com/forms/d/e/1FAIpQLSeJcLkmzvLMxFq37_fNotd-h4UPIyvB_5IDyp8oLCfMGduHJw/viewform)*
   - *[IEEE ROBOTHIA 2025](https://www.ihsanyassin.com/robothia2025_oc/openconf.php)* [在 Sign Up — Keycode: 输入 robothia2025_rev]
   - *[IEEE ISCAIE 2025](https://www.ihsanyassin.com/iscaie2025_oc/openconf.php)* [在 Sign Up — Keycode: 输入 iscaie2025_rev]
 - 2024.09.14
