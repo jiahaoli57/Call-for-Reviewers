@@ -10,6 +10,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 - 2024.09.17 中秋快乐
   - *[ACM Transactions on Parallel Computing](https://dl.acm.org/pb-assets/static_journal_pages/topc/pdf/TOPCEiCCall4Nominations-1723659832.pdf)* [Call for Editor-In-Chief!!!! DDL: September 30, 2024]
+  - *[IEEE Transactions on Technology and Society](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680486)* [Call for Editor-In-Chief!!!! DDL: December, 2024]
 - 2024.09.16
   - *[NeurIPS 2024 Workshop [Model Interventions]](https://docs.google.com/forms/d/e/1FAIpQLSd8Jcuz5b70qey9bJO4tyPdQMCnhsxYFpAG69abG-SYa85Y2g/viewform)*
   - *[AMLDA 2024 Workshop [Artificial Intelligence and Data Analytics]](https://docs.google.com/forms/d/e/1FAIpQLSfxbtrDjD1tv4l7jLRTFysQMDzdB5GmVb6GNJyqoGK_tIRGow/viewform)*
