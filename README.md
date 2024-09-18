@@ -9,6 +9,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 ## Current Calls for Reviewers
 
 - 2024.09.18
+  - *[IEEE Conference on Technologies for Sustainability](https://ieee-sustech.org/about/reviewer-application/)*
+  - *[NeurIPS 2024 Workshop [Safe Generative AI]](https://docs.google.com/forms/d/e/1FAIpQLSeRL7MuAT7JFHokwC8nL_xpVbs-unX1bNX0ZaNHdKUKBcJEfg/viewform)*
   - *[NetApps 2024](https://docs.google.com/forms/d/e/1FAIpQLSct8bLRwbPXwhQNQ4g4hBaOfAelUJ66hG48nW-E2OtUFErlgw/viewform)*
 - 2024.09.17 中秋快乐
   - *[ACM Transactions on Parallel Computing](https://dl.acm.org/pb-assets/static_journal_pages/topc/pdf/TOPCEiCCall4Nominations-1723659832.pdf)* [Call for Editor-In-Chief!!!! DDL: September 30, 2024]
