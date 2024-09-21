@@ -8,6 +8,10 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 
+- 2024.09.21
+  - *[CSCW 2025](https://docs.google.com/forms/d/e/1FAIpQLSdJhldOjvzdThddgYFDs6Nk9-q3g-nur4au0I7_seEyfZjlnw/viewform)* [CCF-A, Call for AC & Ninja Reviewer!!!]
+  - *[ICASSP 2025](https://docs.google.com/forms/d/1wtydYrDyOVJsGha75g5X7keSG4CUXZxQoXF6905gxPk/viewform?edit_requested=true)* [CCF-B]
+  - *[AmericasNLP 2025](https://docs.google.com/forms/d/e/1FAIpQLSfeCT7vKE-rzPcxPcvN5jY6AyzgCFyKl3kVbKIUhUiF013tdA/viewform)*
 - 2024.09.18
   - *[IEEE Conference on Technologies for Sustainability](https://ieee-sustech.org/about/reviewer-application/)*
   - *[NeurIPS 2024 Workshop [Safe Generative AI]](https://docs.google.com/forms/d/e/1FAIpQLSeRL7MuAT7JFHokwC8nL_xpVbs-unX1bNX0ZaNHdKUKBcJEfg/viewform)*
