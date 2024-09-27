@@ -8,6 +8,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 
+- 2024.09.27
+  - *[MIDL 2025](https://docs.google.com/forms/d/e/1FAIpQLSe7K7gTRGfadEd4L7rfe2xUOReoVyPDu3a9G2Epke9tZiLjbw/viewform)*
 - 2024.09.21
   - *[CSCW 2025](https://docs.google.com/forms/d/e/1FAIpQLSdJhldOjvzdThddgYFDs6Nk9-q3g-nur4au0I7_seEyfZjlnw/viewform)* [CCF-A, Call for AC & Ninja Reviewer!!!]
   - *[MobiSys 2025](https://docs.google.com/forms/d/e/1FAIpQLSdwEQIGtx-phreIcMOnbgRWAzX9AD7I5L2WkOBeLM9yf4uEuQ/viewform)* [CCF-B]
