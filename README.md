@@ -76,6 +76,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
   - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
   - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
+  - *[CGScholar Journal Reviewer](https://cgscholar.com/cg_support/en/docs/40-become-a-volunteer-reviewer)*
+  - 
 
 ## Expired Calls for Reviewers
 - *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
