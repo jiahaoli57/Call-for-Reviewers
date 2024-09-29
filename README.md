@@ -7,7 +7,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
-
+- 2024.09.28
+  - *[ICLR 2025 Reviewer and AC Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform)*
 - 2024.09.27
   - *[MIDL 2025](https://docs.google.com/forms/d/e/1FAIpQLSe7K7gTRGfadEd4L7rfe2xUOReoVyPDu3a9G2Epke9tZiLjbw/viewform)*
 - 2024.09.21
