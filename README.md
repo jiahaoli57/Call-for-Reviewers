@@ -71,9 +71,10 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ---
 
-- **长期有效：**
+- **Long-term validity 长期有效：**
   - [MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info) [很麻烦要填一大堆资料]
   - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
+  - *[ASAPbio Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSePY3I9EateaNXy-_FR9D_jLcuUvYniAAeV0VvfuSnXQhRCAQ/viewform)*
   - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
   - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
   - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
