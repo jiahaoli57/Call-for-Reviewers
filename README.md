@@ -115,6 +115,7 @@ We appreciate your contributions!
 
 ## Useful links
 - [ccfddl](https://ccfddl.github.io/)
+- [Conference Partner](https://www.myhuiban.com/search?SearchForm%5Bkey%5D=PACIS)
 
 ## Star History
 
