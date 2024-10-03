@@ -49,9 +49,9 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [美国宇航局]
 - 2024.09.11
   - *[ICWSM 2025](https://new.precisionconference.com/review_volunteering)* [[知乎](https://www.zhihu.com/question/64638075/answer/579293667), **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
-  - *[ECIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems Conference, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
+  - *[European Conference on Information Systems (ECIS 2025)](https://new.precisionconference.com/review_volunteering)* [CORE-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[ICIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems Conference, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
-  - *[PACIS 2025](https://new.precisionconference.com/review_volunteering)* [Information Systems Conference, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
+  - *[Pacific Asia Conference on Information Systems (PACIS 2025)](https://new.precisionconference.com/review_volunteering)* [CORE-A, Information Systems Conference, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[CHI 2025](https://new.precisionconference.com/review_volunteering)* [CCF-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[IEEE VR 2025](https://new.precisionconference.com/review_volunteering)* [CCF-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[CSCW 2025](https://www.surveymonkey.com/r/Z7ZGL55)* [CCF-A]
