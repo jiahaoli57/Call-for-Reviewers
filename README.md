@@ -11,7 +11,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[IEEE International Symposium on Biomedical Imaging (ISBI)](https://app.smartsheet.com/b/form/91a1042f66be411fb81620f03c0c7d0c)*
   - *[IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[International Conference on Intelligent User Interfaces (IUI 2025)](https://new.precisionconference.com/review_volunteering)* [CCF-B, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
-  - *[UbiComp/IMWUT 2025)](https://new.precisionconference.com/review_volunteering)* [CCF-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
+  - *[UbiComp/IMWUT 2025](https://new.precisionconference.com/review_volunteering)* [CCF-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
 - 2024.09.28
   - *[ICLR 2025 Reviewer and AC Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform)*
 - 2024.09.27
