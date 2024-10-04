@@ -8,7 +8,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.10.03
-  - *[UbiComp/IMWUT 2025](https://new.precisionconference.com/review_volunteering)* [CCF-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
+  - *[UbiComp/IMWUT 2024](https://new.precisionconference.com/review_volunteering)* [CCF-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[International Conference on Intelligent User Interfaces (IUI 2025)](https://new.precisionconference.com/review_volunteering)* [CCF-B, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[Americas Conference on Information Systems (AMCIS 2025)](https://new.precisionconference.com/review_volunteering)* [CORE-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
