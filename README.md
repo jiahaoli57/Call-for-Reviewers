@@ -7,6 +7,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2024.10.05
+  - *[AAAI-25 Undergraduate Consortium](https://docs.google.com/forms/d/e/1FAIpQLSeiyBjTcgahxraOZQXGHf0ZduIWYbDDxcqrH5BNaSQqb5E8yg/viewform)*
 - 2024.10.03
   - *[UbiComp/IMWUT 2024](https://new.precisionconference.com/review_volunteering)* [CCF-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[International Conference on Intelligent User Interfaces (IUI 2025)](https://new.precisionconference.com/review_volunteering)* [CCF-B, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
