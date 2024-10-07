@@ -7,6 +7,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2024.10.07
+  - *[NeurIPS 2024 Workshop [MATH-AI]](https://docs.google.com/forms/d/e/1FAIpQLSdlw9FjMuet6CASIh5maH9F9Nfi2hRp2MGy4NfyZ3yqnXq7kg/viewform)* [Emergency Reviewer]
 - 2024.10.06
   - *[Special Issue in Neural Networks Journal: LLM-Compression](https://docs.google.com/forms/d/e/1FAIpQLScgUoQMAnzhuyaIjbYPPTr_RfB3vdAi63xE4VZrMZKFBRdXiw/viewform)* [DDL: Dec 1, 2024]
   - *[Machine Learning for Health Symposium](https://docs.google.com/forms/d/e/1FAIpQLScYHAa3m64nCKpw0H9Kn2lJHULLls5YIqXFRhh0TqLVgYgwwA/viewform)*
