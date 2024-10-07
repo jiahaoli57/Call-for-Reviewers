@@ -8,6 +8,9 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.10.07
+  - *[IEEE Transactions on Intelligent Transportation Systems](2024-10-7.md)* [Q1, Top 5%, IF:~8]
+  - *[Engineering Applications of Artificial Intelligence](2024-10-7.md)* [Q1, Top 10%, IF:7.5]
+  - *[IEEE Transactions on Consumer Electronics](2024-10-7.md)* [Q1, Top 20%, IF:4.3]
   - *[NeurIPS 2024 Workshop [MATH-AI]](https://docs.google.com/forms/d/e/1FAIpQLSdlw9FjMuet6CASIh5maH9F9Nfi2hRp2MGy4NfyZ3yqnXq7kg/viewform)* [Emergency Reviewer]
 - 2024.10.06
   - *[Special Issue in Neural Networks Journal: LLM-Compression](https://docs.google.com/forms/d/e/1FAIpQLScgUoQMAnzhuyaIjbYPPTr_RfB3vdAi63xE4VZrMZKFBRdXiw/viewform)* [DDL: Dec 1, 2024]
