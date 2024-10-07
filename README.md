@@ -88,14 +88,17 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 ---
 
 - **Long-term validity 长期有效：**
-  - [MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info) [很麻烦要填一大堆资料]
+  - *[MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info)* [Need to fill out a lot of information 需要填一大堆信息]
   - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
   - *[ASAPbio Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSePY3I9EateaNXy-_FR9D_jLcuUvYniAAeV0VvfuSnXQhRCAQ/viewform)*
   - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
   - *[Springer Reviewer](https://support.springer.com/en/support/solutions/articles/6000229865-how-to-be-considered-as-a-peer-reviewer-at-springer-nature)*
   - *[DMLR Journal Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSd0ryrkEky-fVCtrGR2NYFETzY8Oi8Kh4WJ3hE5u2tGyNE8vg/viewform)*
   - *[CGScholar Journal Reviewer](https://cgscholar.com/cg_support/en/docs/40-become-a-volunteer-reviewer)*
-
+  - *[MECS Publisher Journal Reviewer](https://www.mecs-press.org/cfe.html)*
+ 
+MECS 
+<!-- 
 ## Expired Calls for Reviewers
 - *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
 - *[NeurIPS 2024 Workshop [Women in Machine Learning]](https://docs.google.com/forms/d/e/1FAIpQLSfNj7hc4coBvf6pJ_PjBMspH3NszPTcKOent1JwYSA72zz0oQ/viewform)*
@@ -111,6 +114,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 - *[ICML 2024 Workshop [Structured Probabilistic Inference & Generative Modeling]](https://docs.google.com/forms/d/e/1FAIpQLSe2VHtsVv1Emoc_veQFxocTVplC1DcSSpTV1FBEm62q6JfdYA/viewform)*
 - *[NeurIPS 2023 Workshop [Algorithmic Fairness through the Lens of Time]](https://forms.gle/oernBELkiKf5aGvW6)*
 - *[NeurIPS 2023 Workshop [New in Machine Learning]](https://forms.gle/LTRbZoYWziC23XSAA)*
+-->
 
 ## How to Contribute?
 We encourage everyone to contribute to this repository by adding new calls as they become available.
