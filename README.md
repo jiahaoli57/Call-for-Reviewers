@@ -11,7 +11,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[NeurIPS 2024 Workshop [MATH-AI]](https://docs.google.com/forms/d/e/1FAIpQLSdlw9FjMuet6CASIh5maH9F9Nfi2hRp2MGy4NfyZ3yqnXq7kg/viewform)* [Emergency Reviewer]
 - 2024.10.06
   - *[Special Issue in Neural Networks Journal: LLM-Compression](https://docs.google.com/forms/d/e/1FAIpQLScgUoQMAnzhuyaIjbYPPTr_RfB3vdAi63xE4VZrMZKFBRdXiw/viewform)* [DDL: Dec 1, 2024]
-  - *[Machine Learning for Health Symposium](https://docs.google.com/forms/d/e/1FAIpQLScYHAa3m64nCKpw0H9Kn2lJHULLls5YIqXFRhh0TqLVgYgwwA/viewform)*
+  - *[Machine Learning for Health Symposium](https://docs.google.com/forms/d/e/1FAIpQLScYHAa3m64nCKpw0H9Kn2lJHULLls5YIqXFRhh0TqLVgYgwwA/viewform)* [Emergency Reviewer]
 - 2024.10.05
   - *[AAAI-25 Undergraduate Consortium](https://docs.google.com/forms/d/e/1FAIpQLSeiyBjTcgahxraOZQXGHf0ZduIWYbDDxcqrH5BNaSQqb5E8yg/viewform)*
 - 2024.10.03
