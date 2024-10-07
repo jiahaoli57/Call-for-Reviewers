@@ -97,7 +97,6 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[CGScholar Journal Reviewer](https://cgscholar.com/cg_support/en/docs/40-become-a-volunteer-reviewer)*
   - *[MECS Publisher Journal Reviewer](https://www.mecs-press.org/cfe.html)*
  
-MECS 
 <!-- 
 ## Expired Calls for Reviewers
 - *[NeurIPS 2024 Workshop [Fusing Neuroscience and AI]](https://docs.google.com/forms/d/e/1FAIpQLScImuCkNd5o7BaxVRObsZr91Gwp-m7H2Xm1F0zziKreA3S6yw/viewform)*
