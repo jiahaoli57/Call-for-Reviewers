@@ -9,6 +9,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 ## Current Calls for Reviewers
 - 2024.10.11
   - *[Interspeech 2025](https://www.isca-speech.org/Reviewing)* [CCF C, CORE A]
+- 2024.10.09
+  - *[IEEE EDUCON 2025](https://2025.ieee-educon.org/authors/become-a-reviewer)*
 - 2024.10.08
   - *[Joint International Scientific Conference On Information Technologies for Intelligent Decision Support](https://docs.google.com/forms/d/e/1FAIpQLSc-x_LwP4NoRk1VoBzq1GWXu-tE-HyEg-JZ6Dv-1YhAN-oHoA/viewform)*
 - 2024.10.07
