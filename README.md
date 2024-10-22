@@ -94,6 +94,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 ---
 
 - **Long-term validity 长期有效：**
+  - *[UPScience Reviewer](http://www.upubscience.com/Join-Reviewer-Team.aspx?ClassID=32)*
   - *[MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info)* [Need to fill out a lot of information 需要填一大堆信息]
   - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
   - *[ASAPbio Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSePY3I9EateaNXy-_FR9D_jLcuUvYniAAeV0VvfuSnXQhRCAQ/viewform)*
