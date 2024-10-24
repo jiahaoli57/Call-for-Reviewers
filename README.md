@@ -28,7 +28,6 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[NeurIPS 2024 Workshop [MATH-AI]](https://docs.google.com/forms/d/e/1FAIpQLSdlw9FjMuet6CASIh5maH9F9Nfi2hRp2MGy4NfyZ3yqnXq7kg/viewform)* [Emergency Reviewer]
 - 2024.10.06
   - *[Special Issue in Neural Networks Journal: LLM-Compression](https://docs.google.com/forms/d/e/1FAIpQLScgUoQMAnzhuyaIjbYPPTr_RfB3vdAi63xE4VZrMZKFBRdXiw/viewform)* [DDL: Dec 1, 2024]
-  - *[Machine Learning for Health Symposium](https://docs.google.com/forms/d/e/1FAIpQLScYHAa3m64nCKpw0H9Kn2lJHULLls5YIqXFRhh0TqLVgYgwwA/viewform)* [Emergency Reviewer]
 - 2024.10.05
   - *[AAAI-25 Undergraduate Consortium](https://docs.google.com/forms/d/e/1FAIpQLSeiyBjTcgahxraOZQXGHf0ZduIWYbDDxcqrH5BNaSQqb5E8yg/viewform)*
 - 2024.10.03
@@ -37,15 +36,11 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[Americas Conference on Information Systems (AMCIS 2025)](https://new.precisionconference.com/review_volunteering)* [CORE-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[IEEE International Symposium on Biomedical Imaging (ISBI)](https://app.smartsheet.com/b/form/91a1042f66be411fb81620f03c0c7d0c)*
-- 2024.09.28
-  - *[ICLR 2025 Reviewer and AC Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform)*
 - 2024.09.27
   - *[MIDL 2025](https://docs.google.com/forms/d/e/1FAIpQLSe7K7gTRGfadEd4L7rfe2xUOReoVyPDu3a9G2Epke9tZiLjbw/viewform)*
 - 2024.09.21
   - *[CSCW 2025](https://docs.google.com/forms/d/e/1FAIpQLSdJhldOjvzdThddgYFDs6Nk9-q3g-nur4au0I7_seEyfZjlnw/viewform)* [CCF-A, Call for AC & Ninja Reviewer!!!]
-  - *[MobiSys 2025](https://docs.google.com/forms/d/e/1FAIpQLSdwEQIGtx-phreIcMOnbgRWAzX9AD7I5L2WkOBeLM9yf4uEuQ/viewform)* [CCF-B]
   - *[ICASSP 2025](https://docs.google.com/forms/d/1wtydYrDyOVJsGha75g5X7keSG4CUXZxQoXF6905gxPk/viewform?edit_requested=true)* [CCF-B]
-  - *[NeurIPS 2024 Workshop [Table Representation Learning]](https://docs.google.com/forms/d/e/1FAIpQLSch8wrY7NPEE68BnJxBvrTwaBbQ2Tk84rIW4DwNXNp2zGgEPQ/viewform)*
   - *[AmericasNLP 2025](https://docs.google.com/forms/d/e/1FAIpQLSfeCT7vKE-rzPcxPcvN5jY6AyzgCFyKl3kVbKIUhUiF013tdA/viewform)*
 - 2024.09.18
   - *[IEEE Conference on Technologies for Sustainability](https://ieee-sustech.org/about/reviewer-application/)*
@@ -56,16 +51,13 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[IEEE Transactions on Technology and Society](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680486)* [Call for Editor-In-Chief!!!! DDL: December, 2024]
 - 2024.09.16
   - *[NeurIPS 2024 Workshop [Model Interventions]](https://docs.google.com/forms/d/e/1FAIpQLSd8Jcuz5b70qey9bJO4tyPdQMCnhsxYFpAG69abG-SYa85Y2g/viewform)*
-  - *[AMLDA 2024 Workshop [Artificial Intelligence and Data Analytics]](https://docs.google.com/forms/d/e/1FAIpQLSfxbtrDjD1tv4l7jLRTFysQMDzdB5GmVb6GNJyqoGK_tIRGow/viewform)*
   - *[IEEE ICPCT 2025](https://docs.google.com/forms/d/e/1FAIpQLSeJcLkmzvLMxFq37_fNotd-h4UPIyvB_5IDyp8oLCfMGduHJw/viewform)*
   - *[IEEE ROBOTHIA 2025](https://www.ihsanyassin.com/robothia2025_oc/openconf.php)* [在 Sign Up — Keycode: 输入 robothia2025_rev]
   - *[IEEE ISCAIE 2025](https://www.ihsanyassin.com/iscaie2025_oc/openconf.php)* [在 Sign Up — Keycode: 输入 iscaie2025_rev]
 - 2024.09.14
   - *[IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/about-ras/latest-news/call-for-nominations-editors-and-associate-editors-for-ieee-transactions-on-automation-science-and-engineering-t-ase)* [Call for Editors and Associate Editors!!! DDL: October 1, 2024]
-  - *[IEEE Transactions on Intelligent Transportation Systems](https://docs.google.com/forms/d/e/1FAIpQLSdWTBKrFOlJ2fmm0j-tVWvgMy2JCGpCNNK8c80HTahaRgPdRA/viewform)* [Call for Associate Editors!!!! DDL: September 17, 2024]
   - *[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation/call-for-associate-editors-for-the-ieee-transactions-on-evolutionary-computation)* [Call for Associate Editors!!! DDL: October 16, 2024]
 - 2024.09.13
-  - *[NeurIPS 2024 Workshop [Foundation Models for Science: Progress, Opportunities, and Challenges]](https://docs.google.com/forms/d/e/1FAIpQLSfqSRyG-f-gDyCFqEiSOi-NduD1hzYWKcg8QP0WuafMa60w9g/viewform)* [DDL: October 6, 2024]
   - *[NeurIPS 2024 Workshop [AI for Accelerated Materials Discovery]](https://docs.google.com/forms/d/e/1FAIpQLSfraxa4rFvWVzobYAaBv_By2k42k3hg0WhitLaoq6saQUX8cA/viewform)*
   - *[ICLR 2025 Workshop [主题未知]](https://docs.google.com/forms/d/e/1FAIpQLSd0MSOj3rYlpai_wPvCUf6GwOR0hX1fEfTkGr5kBwOSNApmuw/viewform)* [[信息来源](https://x.com/EzgiKorkmazAI/status/1834177398822392169)]
 - 2024.09.12
@@ -95,9 +87,6 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[NeurIPS 2024 Workshop [Causality and Large Models]](https://docs.google.com/forms/d/e/1FAIpQLScllUlTlk4P-c7HYrgPw051YME2HoFyZgWEl_LaetJ59G1lyw/viewform)*
   - *[NeurIPS 2024 Workshop [Algorithmic Fairness through the lens of Metrics and Evaluation]](https://forms.gle/oernBELkiKf5aGvW6)*
   - *[ECCV 2024 Workshop [AI for Visual Arts]](https://docs.google.com/forms/d/e/1FAIpQLSeEd5hx6QLMURTyn655TVSVYXUWR6_EzgBrwdNVek-3xPeI3g/viewform)*
-  - *[ICLR 2025](https://docs.google.com/forms/d/e/1FAIpQLScewOaKu6E23-2gwikWbG2Uhb0veARqyYNm_sv5YgONCpBvdQ/viewform?pli=1&pli=1)*
-  - *[AISTATS 2025](https://forms.gle/saediFoTznTQ7heC6)*
-  - *[SANER 2025 Workshop [Mining Software Repositories Applications for Privacy and Security]](https://docs.google.com/forms/d/e/1FAIpQLSe7qTDpXd4ZTLhsz0-AhDp-jrt9KYoK-xiPt93Gz-hM17_b9A/viewform)*
 
 ---
 
