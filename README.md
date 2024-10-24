@@ -8,6 +8,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.10.19
+  - *[International Conference on Sustainable Computing and Intelligent Systems (ICSCIS 2025)](https://docs.google.com/forms/d/e/1FAIpQLScaSo1d-J94AY1Qc4Ek3GObriiBOdoPzAjZrtp80VMMQLqqZg/viewform)*
+- 2024.10.19
   - *[IEEE APSIT 2025](https://docs.google.com/forms/d/e/1FAIpQLSehRKPRArKl0SOuwvqestgWeeWuA25vQnAkkL64bbsuEVBLiQ/viewform)*
 - 2024.10.17
   - *[COLING 2025](https://docs.google.com/forms/d/e/1FAIpQLSfDIxZGeyKOe5nV8YFUreNxA4Uw367oYpP1G3OD2jM3he-3Dw/viewform)* [Emergency Reviewers]
