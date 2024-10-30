@@ -10,6 +10,11 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 - 2024.10.30
   - *[IEEE Hongkong PSGEC 2025: 2025 5th Power System and Green Energy Conference](2024-10-30.md)*
   - *[Journal of Open Source Software Blog](https://blog.joss.theoj.org/2024/10/call-for-editors)* [Call for Editors]
+  - *[36ème Conférence Internationale Francophone sur l'Interaction Humain-Machine (IHM 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
+  - *[ACM Symposium on Eye Tracking Research & Applications (ETRA) (ETRA 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
+  - *[ACM Conversational User Interfaces Conference (ACM CUI 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
+  - *[ACM International Conference on Tangible, Embedded and Embodied Interaction (ACM TEI 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
+  - *[ACM International Conference on Interactive Media Experiences (ACM IMX 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
 - 2024.10.19
   - *[IEEE International Conference on Electrical, Control and Computer Engineering (InECCE2025)](https://docs.google.com/forms/d/e/1FAIpQLScUlZzhZl3snr8AO1MxXbRnx25TuBmgZ1c6W-VxbfsX1OIw0A/viewform)*
   - *[IEEE Transactions on Microwave Theory and Techniques](https://mtt.org/tmtt-eic/)*  [Call for Editor-in-Chief (EiC)!!! DDL: February 28, 2025]
