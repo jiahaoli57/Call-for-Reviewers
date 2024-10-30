@@ -8,6 +8,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.10.30
+  - *[IEEE Hongkong PSGEC 2025: 2025 5th Power System and Green Energy Conference](2024-10-30.md)*
   - *[Journal of Open Source Software Blog](https://blog.joss.theoj.org/2024/10/call-for-editors)* [Call for Editors]
 - 2024.10.19
   - *[IEEE International Conference on Electrical, Control and Computer Engineering (InECCE2025)](https://docs.google.com/forms/d/e/1FAIpQLScUlZzhZl3snr8AO1MxXbRnx25TuBmgZ1c6W-VxbfsX1OIw0A/viewform)*
