@@ -88,8 +88,6 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[CSCW 2025](https://www.surveymonkey.com/r/Z7ZGL55)* [CCF-A]
   - *[NeurIPS 2024 Workshop [Bayesian Decision-making and Uncertainty]](https://docs.google.com/forms/d/e/1FAIpQLSck5qebBOpjp0CiFzkXzjyXH9NNPvZSStlrNntNeP1VIjN6Wg/viewform)*
 - 2024.09.10
-  - *[MSR 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 15, 2024]
-  - *[TechDebt 2025](https://docs.google.com/forms/d/e/1FAIpQLSfuH_AM7r0pGIDYV6wIMFs5TLwq7BtwEWQk20HrtCPTG2sGsw/viewform)* [Call for Junior PC!!!! DDL: September 22, 2024]
   - *[LoG 2024](https://docs.google.com/forms/d/e/1FAIpQLSez4duReyGdDL6M2dH-_1lK5f8RLeztbdiLtc9Qazd4n0Xhlw/viewform)*
   - *[CoRL 2024](https://docs.google.com/forms/d/e/1FAIpQLSfZ_JYSqcAgC6kjzWP2_Z6BXRKgCwVnQsJ3-nnvlKU_NfjT1A/viewform)* [or email this guy: https://yijiangh.github.io/]
   - *[NeurIPS 2024 Ethics Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSf2rSb39StaINrNhB5MUEbcKWnmp_z124cChe_McNWd8Kdo-g/viewform)*
