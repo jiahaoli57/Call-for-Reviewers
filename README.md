@@ -7,6 +7,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2024.09.12
+  - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [Reviewers are eligible for an honorarium of $350 per day]
 - 2024.11.3
   - *[Applied Intelligence](https://forms.gle/ohAqfxZzGWt1NNsy8)* [CCF-C, 中科院二区, JCR Q1]
 - 2024.11.2
@@ -76,7 +78,6 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
   - *[ICLR 2025 Workshop [主题未知]](https://docs.google.com/forms/d/e/1FAIpQLSd0MSOj3rYlpai_wPvCUf6GwOR0hX1fEfTkGr5kBwOSNApmuw/viewform)* [[信息来源](https://x.com/EzgiKorkmazAI/status/1834177398822392169)]
 - 2024.09.12
   - *[AI Open](https://www.surveymonkey.com/r/B8LZBJK)* [[腾讯网](https://new.qq.com/rain/a/20240718A03X7300?suid=&media_id=), DDL: September 30, 2024]
-  - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [美国宇航局]
 - 2024.09.11
   - *[ICWSM 2025](https://new.precisionconference.com/review_volunteering)* [[知乎](https://www.zhihu.com/question/64638075/answer/579293667), **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[European Conference on Information Systems (ECIS 2025)](https://new.precisionconference.com/review_volunteering)* [CORE-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
@@ -106,6 +107,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 - **Long-term validity 长期有效：**
   - *[Applied Intelligence](https://forms.gle/ohAqfxZzGWt1NNsy8)* [CCF-C, 中科院二区, JCR Q1]
+  - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [Reviewers are eligible for an honorarium of $350 per day]
   - *[UPScience Reviewer](http://www.upubscience.com/Join-Reviewer-Team.aspx?ClassID=32)*
   - *[MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info)* [Need to fill out a lot of information 需要填一大堆信息]
   - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
