@@ -8,7 +8,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.11.06
-  - *[2025 7th IEEE Symposium on Computers & Informatics (ISCI2025)](https://www.ihsanyassin.com/isci2025_oc/openconf.php)*  [在 Sign Up — Keycode: 输入 isci2025_rev]
+  - *[AAAI 2025 Workshop (Multi-Agent AI in the Real-World)](https://sites.google.com/view/marw-ai-agents/home?authuser=0)*
+  - *[2025 7th IEEE Symposium on Computers & Informatics (ISCI2025)](https://www.ihsanyassin.com/isci2025_oc/openconf.php)*  [Enter "isci2025_rev" in the "Sign Up"]
 - 2024.11.05
   - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [Reviewers are eligible for an honorarium of $350 per day]
 - 2024.11.03
@@ -70,8 +71,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 - 2024.09.16
   - *[NeurIPS 2024 Workshop [Model Interventions]](https://docs.google.com/forms/d/e/1FAIpQLSd8Jcuz5b70qey9bJO4tyPdQMCnhsxYFpAG69abG-SYa85Y2g/viewform)*
   - *[IEEE ICPCT 2025](https://docs.google.com/forms/d/e/1FAIpQLSeJcLkmzvLMxFq37_fNotd-h4UPIyvB_5IDyp8oLCfMGduHJw/viewform)*
-  - *[IEEE ROBOTHIA 2025](https://www.ihsanyassin.com/robothia2025_oc/openconf.php)* [在 Sign Up — Keycode: 输入 robothia2025_rev]
-  - *[IEEE ISCAIE 2025](https://www.ihsanyassin.com/iscaie2025_oc/openconf.php)* [在 Sign Up — Keycode: 输入 iscaie2025_rev]
+  - *[IEEE ROBOTHIA 2025](https://www.ihsanyassin.com/robothia2025_oc/openconf.php)* [Enter "robothia2025_rev" in the "Sign Up"]
+  - *[IEEE ISCAIE 2025](https://www.ihsanyassin.com/iscaie2025_oc/openconf.php)* [Enter "iscaie2025_rev" in the "Sign Up"]
 - 2024.09.14
   - *[IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/about-ras/latest-news/call-for-nominations-editors-and-associate-editors-for-ieee-transactions-on-automation-science-and-engineering-t-ase)* [Call for Editors and Associate Editors!!! DDL: October 1, 2024]
   - *[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation/call-for-associate-editors-for-the-ieee-transactions-on-evolutionary-computation)* [Call for Associate Editors!!! DDL: October 16, 2024]
