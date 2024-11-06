@@ -7,11 +7,13 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
-- 2024.09.12
+- 2024.11.06
+  - *[2025 7th IEEE Symposium on Computers & Informatics (ISCI2025)](https://www.ihsanyassin.com/isci2025_oc/openconf.php)*  [在 Sign Up — Keycode: 输入 isci2025_rev]
+- 2024.11.05
   - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [Reviewers are eligible for an honorarium of $350 per day]
-- 2024.11.3
-  - *[Applied Intelligence](https://forms.gle/ohAqfxZzGWt1NNsy8)* [CCF-C, 中科院二区, JCR Q1]
-- 2024.11.2
+- 2024.11.03
+  - *[Applied Intelligence Journal](https://forms.gle/ohAqfxZzGWt1NNsy8)* [CCF-C, 中科院二区, JCR Q1]
+- 2024.11.02
   - *[APL Computational Physics](https://publishing.aip.org/publications/journals/apl-computational-physics-coming-soon/#applications)* [Call for Editors]
 - 2024.10.31
   - *[Applied Mathematics in Science and Engineering](https://mp.weixin.qq.com/s/q6CPoNSJlWayrx61Ls8CyA)* [Call for Editors]
