@@ -8,6 +8,10 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.11.07
+  - *[2024 6th International Conference on Soft Computing and its Engineering Applications (icSoftComp2024)](https://docs.google.com/forms/d/e/1FAIpQLSey5HoVSt9-gGEcYfCemUi_TDdCgjrkpP5lamQ-ZhnAQHes2w/viewform)* [Call for Reviewers]
+  - *[AAAI 2025 Workshop (AI Governance)](https://docs.google.com/forms/d/e/1FAIpQLSde3oh0NvAdU6kOQtjv4fJ8ww0q9RVoqmzTzO-9cH12o06aQg/viewform)*
+  - *[Society for Causal Inference](https://sci-info.org/annual-meeting/submissions/)* [Call for ABSTRACT Reviewers]
+- 2024.11.07
   - *[Special Issue on the "Psychology of Artificial Intelligence"](https://www.in-mind.org/blog/post/call-for-editors-for-a-special-issue-on-the-psychology-of-artificial-intelligence)* [Call for Guest Editors]
 - 2024.11.06
   - *[AAAI 2025 Workshop (Multi-Agent AI in the Real-World)](https://sites.google.com/view/marw-ai-agents/home?authuser=0)*
