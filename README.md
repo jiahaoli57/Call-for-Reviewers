@@ -8,9 +8,10 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.11.12
-  - *[21st IEEE International Colloquium on Signal Processing & Its Applications](https://www.asprg.net/cspa2025_oc/review/signin.php)* [Call for Reviewers]
+  - *[AAAI 2025 Workshop (Deployable AI)](https://docs.google.com/forms/d/e/1FAIpQLSf9gw1rSBuk7DjJA6TFfMVgPA6LJ40-t6JbxagnPZ32Wor-hA/viewform)*
+  - *[21st IEEE International Colloquium on Signal Processing & Its Applications](https://www.asprg.net/cspa2025_oc/review/signin.php)*
 - 2024.11.07
-  - *[2024 6th International Conference on Soft Computing and its Engineering Applications (icSoftComp2024)](https://docs.google.com/forms/d/e/1FAIpQLSey5HoVSt9-gGEcYfCemUi_TDdCgjrkpP5lamQ-ZhnAQHes2w/viewform)* [Call for Reviewers]
+  - *[2024 6th International Conference on Soft Computing and its Engineering Applications (icSoftComp2024)](https://docs.google.com/forms/d/e/1FAIpQLSey5HoVSt9-gGEcYfCemUi_TDdCgjrkpP5lamQ-ZhnAQHes2w/viewform)*
   - *[AAAI 2025 Workshop (AI Governance)](https://docs.google.com/forms/d/e/1FAIpQLSde3oh0NvAdU6kOQtjv4fJ8ww0q9RVoqmzTzO-9cH12o06aQg/viewform)*
   - *[Society for Causal Inference](https://sci-info.org/annual-meeting/submissions/)* [Call for ABSTRACT Reviewers]
 - 2024.11.07
