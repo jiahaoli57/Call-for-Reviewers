@@ -8,6 +8,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.11.13
+  - *[International Conference on Autonomous Agents and Multiagent Systems 2025 (AAMAS 2025)](https://docs.google.com/forms/d/e/1FAIpQLSdnuYD7YD4G-GAr8VKvB5VDu4Z_FeiQBkgPJvInuq5o5I1cDA/viewform)* [CCF-B]
   - *[Academy of Management 2025](https://aom.org/events/annual-meeting/reviewing?_zs=CW27K1&_zl=TCEd7)*
 - 2024.11.12
   - *[AAAI 2025 Workshop (Deployable AI)](https://docs.google.com/forms/d/e/1FAIpQLSf9gw1rSBuk7DjJA6TFfMVgPA6LJ40-t6JbxagnPZ32Wor-hA/viewform)*
