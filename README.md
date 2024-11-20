@@ -7,6 +7,9 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2024.11.20
+  - *[ACM TIST & IEEE TNNLS](https://docs.google.com/forms/d/e/1FAIpQLSe3D5UZzyU7V83A1i0SXL6LxMC1sQGsUMp2Zxub6yB-Mulx8A/viewform?usp=send_form)*
+  - *[IEEE International Conference on Electrical, Control and Computer Engineering (InECCE 2025)](https://docs.google.com/forms/d/e/1FAIpQLScUlZzhZl3snr8AO1MxXbRnx25TuBmgZ1c6W-VxbfsX1OIw0A/viewform)*
 - 2024.11.13
   - *[International Conference on Autonomous Agents and Multiagent Systems 2025 (AAMAS 2025)](https://docs.google.com/forms/d/e/1FAIpQLSdnuYD7YD4G-GAr8VKvB5VDu4Z_FeiQBkgPJvInuq5o5I1cDA/viewform)* [CCF-B]
   - *[Academy of Management 2025](https://aom.org/events/annual-meeting/reviewing?_zs=CW27K1&_zl=TCEd7)*
@@ -119,6 +122,7 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 ---
 
 - **Long-term validity 长期有效：**
+  - *[ACM TIST & IEEE TNNLS](https://docs.google.com/forms/d/e/1FAIpQLSe3D5UZzyU7V83A1i0SXL6LxMC1sQGsUMp2Zxub6yB-Mulx8A/viewform?usp=send_form)*
   - *[Applied Intelligence](https://forms.gle/ohAqfxZzGWt1NNsy8)* [CCF-C, 中科院二区, JCR Q1]
   - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [Reviewers are eligible for an honorarium of $350 per day]
   - *[UPScience Reviewer](http://www.upubscience.com/Join-Reviewer-Team.aspx?ClassID=32)*
