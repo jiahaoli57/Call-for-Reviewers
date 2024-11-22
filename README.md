@@ -7,8 +7,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
-- 2024.11.21
-  - *[International Joint Conference on Neural Networks (IJCNN 2025)](https://docs.google.com/forms/d/e/1FAIpQLSdk5X8q-68TXvwRmgndh147roup1iQtYeWFgi8Ousd6CdB9ow/viewform)* [CCF-C]
+- 2024.11.22
+  - *[International Joint Conference on Neural Networks (IJCNN 2025)](https://docs.google.com/forms/d/e/1FAIpQLSdk5X8q-68TXvwRmgndh147roup1iQtYeWFgi8Ousd6CdB9ow/viewform)* [CCF-C, CORE-B]
 - 2024.11.20
   - *[ACM TIST & IEEE TNNLS](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR4Ka3Tkd9ABHgzSzv0yP6kZUMU1JT1hRWjQyU1VGOU9YNkFXRTIxNFROSC4u&route=shorturl)*
   - *[IEEE International Conference on Electrical, Control and Computer Engineering (InECCE 2025)](https://docs.google.com/forms/d/e/1FAIpQLScUlZzhZl3snr8AO1MxXbRnx25TuBmgZ1c6W-VxbfsX1OIw0A/viewform)*
