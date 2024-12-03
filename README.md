@@ -3,6 +3,9 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 如果你在做 计算机/机器学习/人工智能 领域相关的研究，同时想积累一些审稿经验来申请 NIW/H1B/EB1（或者优化简历），可以看看这个库。这里收集了各大顶尖 CS/ML/AI 会议的最新 "审稿人征集" 链接
 
+For some conferences, outstanding reviewers may also have the opportunity to waive the registration fee for the following year's conference.
+对于部分会议，优秀审稿人还有机会免除次年会议的注册费
+
 # Donate to support our work
 <img align="center" src=wxpay.jpg width="25%"/> 
 
