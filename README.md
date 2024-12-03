@@ -11,7 +11,8 @@ Welcome to the ``Call-for-Reviewers`` repository! This project aims to collect t
 
 ## Current Calls for Reviewers
 - 2024.12.03
-  - *[AAAI AI Alignment Track](https://docs.google.com/forms/d/e/1FAIpQLSd5LB9OEJpdk7ota_PL2H1Lzyv1cNJVCo9FcA-umWqT0MeLXg/viewform)* (Emergency!)
+  - *[AAAI AI Alignment Track](https://docs.google.com/forms/d/e/1FAIpQLSd5LB9OEJpdk7ota_PL2H1Lzyv1cNJVCo9FcA-umWqT0MeLXg/viewform)* [Emergency!]
+  - *[Economic Analysis and Policy](https://www.sciencedirect.com/journal/economic-analysis-and-policy/about/news/call-for-applications-co-editors-for-economics-analysis-and-policy)* [Call for Co-Editors]
 - 2024.11.28
   - *[ACL 2025](https://docs.google.com/forms/d/e/1FAIpQLSetTY_YH0U7d3VQgmFAOP85XHYOnrg1e7jHsrbOt4c0SuTX5w/viewform)*
 - 2024.11.22
