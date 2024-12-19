@@ -16,6 +16,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 ## Current Calls for Reviewers
 - 2024.12.19
   - *[ACL 2025 Ling theory & Cognitive modeling track](https://docs.google.com/forms/d/1fH7kDYdO_LfS6IbS4g0-i9hn1_jCyqGFe7MoW0SucN8/viewform?edit_requested=true)* [Emergency!]
+  - *[AAAI 2025 Workshop (Preventing and Detecting LLM Misinformation)](2024-12-19.md)*
 - 2024.12.18
   - *[International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)](https://docs.google.com/forms/d/e/1FAIpQLSc_kHOGfq6CEJ2b5pOSNZtGaqehOuceeXvJFhl6L4aiHhdoVg/viewform)*  [CCF A, CORE A*]
 - 2024.12.16
