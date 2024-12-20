@@ -14,11 +14,13 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2024.12.20
+  - *[IJCAI 2025](https://2025.ijcai.org/call-for-reviewers/)* [CCF A, CORE A*]
 - 2024.12.19
   - *[ACL 2025 Ling theory & Cognitive modeling track](https://docs.google.com/forms/d/1fH7kDYdO_LfS6IbS4g0-i9hn1_jCyqGFe7MoW0SucN8/viewform?edit_requested=true)* [Emergency!]
   - *[AAAI 2025 Workshop (Preventing and Detecting LLM Misinformation)](2024-12-19.md)*
 - 2024.12.18
-  - *[International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)](https://docs.google.com/forms/d/e/1FAIpQLSc_kHOGfq6CEJ2b5pOSNZtGaqehOuceeXvJFhl6L4aiHhdoVg/viewform)*  [CCF A, CORE A*]
+  - *[International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)](https://docs.google.com/forms/d/e/1FAIpQLSc_kHOGfq6CEJ2b5pOSNZtGaqehOuceeXvJFhl6L4aiHhdoVg/viewform)* [CCF A, CORE A*]
 - 2024.12.16
   - *[IEEE ICCSAI 2025](2024-12-16.md)*
 - 2024.12.14
