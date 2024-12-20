@@ -16,6 +16,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 ## Current Calls for Reviewers
 - 2024.12.20
   - *[IJCAI 2025](https://2025.ijcai.org/call-for-reviewers/)* [CCF A, CORE A*]
+  - *[WACV 2025 Workshop (Out-of-Label Hazards in Autonomous Driving)](https://docs.google.com/forms/d/e/1FAIpQLSemwuu5SkBf5_OCm4bScENYr7pe_aeVkCLlBkwyxlsQn-VKaw/viewform)*
 - 2024.12.19
   - *[ACL 2025 Ling theory & Cognitive modeling track](https://docs.google.com/forms/d/1fH7kDYdO_LfS6IbS4g0-i9hn1_jCyqGFe7MoW0SucN8/viewform?edit_requested=true)* [Emergency!]
   - *[AAAI 2025 Workshop (Preventing and Detecting LLM Misinformation)](2024-12-19.md)*
