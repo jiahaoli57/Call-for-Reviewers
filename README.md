@@ -40,7 +40,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 - 2024.11.28
   - *[ACL 2025](https://docs.google.com/forms/d/e/1FAIpQLSetTY_YH0U7d3VQgmFAOP85XHYOnrg1e7jHsrbOt4c0SuTX5w/viewform)*
 - 2024.11.22
-  - *[International Joint Conference on Neural Networks (IJCNN 2025)](https://docs.google.com/forms/d/e/1FAIpQLSdk5X8q-68TXvwRmgndh147roup1iQtYeWFgi8Ousd6CdB9ow/viewform)* [CCF-C, CORE-B]
+  - *[International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org/reviewers/become-a-reviewer)* [CCF-C, CORE-B, Reviewer]
+  - *[International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org/reviewers/become-an-area-chair)* [CCF-C, CORE-B, Area Chair]
 - 2024.11.20
   - *[ACM TIST & IEEE TNNLS](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR4Ka3Tkd9ABHgzSzv0yP6kZUMU1JT1hRWjQyU1VGOU9YNkFXRTIxNFROSC4u&route=shorturl)*
   - *[IEEE International Conference on Electrical, Control and Computer Engineering (InECCE 2025)](https://docs.google.com/forms/d/e/1FAIpQLScUlZzhZl3snr8AO1MxXbRnx25TuBmgZ1c6W-VxbfsX1OIw0A/viewform)*
