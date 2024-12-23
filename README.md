@@ -15,6 +15,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 - 2024.12.23
+  - *[KDD 2025](https://docs.google.com/forms/d/e/1FAIpQLScW8kCTCAihOeuY2PtCAM7rJ99jSARyYlYdVnKe6Tt1_fNK-Q/viewform)* [CCF A, CORE A*]
   - *[ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLSeP4xPitb5SOz4X3VFO8qOQmP8SylJaxwflxyLz1VNq9Iiahg/viewform)* [CCF A, CORE A*]
   - *[An ML conference](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UbsvKNUNlpQTVZMMlRSQVFYUVpTV01BRjVLRFBXUC4u&route=shorturl)* [[信息来源/Source](https://x.com/reshmigh/status/1870976202913329658)]
 - 2024.12.20
