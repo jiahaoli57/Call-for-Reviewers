@@ -16,6 +16,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 ## Current Calls for Reviewers
 - 2024.12.23
   - *[ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLSeP4xPitb5SOz4X3VFO8qOQmP8SylJaxwflxyLz1VNq9Iiahg/viewform)* [CCF A, CORE A*]
+  - *[An ML conference](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UbsvKNUNlpQTVZMMlRSQVFYUVpTV01BRjVLRFBXUC4u&route=shorturl)* [[信息来源/Source](https://x.com/reshmigh/status/1870976202913329658)]
 - 2024.12.20
   - *[IJCAI 2025](https://2025.ijcai.org/call-for-reviewers/)* [CCF A, CORE A*]
   - *[WACV 2025 Workshop (Out-of-Label Hazards in Autonomous Driving)](https://docs.google.com/forms/d/e/1FAIpQLSemwuu5SkBf5_OCm4bScENYr7pe_aeVkCLlBkwyxlsQn-VKaw/viewform)*
