@@ -14,6 +14,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2024.12.23
+  - *[ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLSeP4xPitb5SOz4X3VFO8qOQmP8SylJaxwflxyLz1VNq9Iiahg/viewform)* [CCF A, CORE A*]
 - 2024.12.20
   - *[IJCAI 2025](https://2025.ijcai.org/call-for-reviewers/)* [CCF A, CORE A*]
   - *[WACV 2025 Workshop (Out-of-Label Hazards in Autonomous Driving)](https://docs.google.com/forms/d/e/1FAIpQLSemwuu5SkBf5_OCm4bScENYr7pe_aeVkCLlBkwyxlsQn-VKaw/viewform)*
