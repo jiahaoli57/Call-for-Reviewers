@@ -14,6 +14,9 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2025.01.11
+  - *[ICLR 2025 Workshop (Deep Generative Models)](https://docs.google.com/forms/d/1_A6UNjw0jBj-4Qk-huqyv8GglgD0KWP1i9UXeopmjCs/viewform?edit_requested=true)*
+  - *[AOM 2025](https://review.aom.org/2025/default.aspx)*
 - 2025.01.03
   - *[The AHLI Conference on Health, Inference, and Learning (CHIL)](https://docs.google.com/forms/d/e/1FAIpQLScpPxrPRPJivvTOM0_ixK88aGHEoHAUCDppa4eyHwg1IoXfow/viewform)*
 - 2024.12.30
@@ -210,6 +213,7 @@ We appreciate your contributions!
 ## Useful links
 - [ccfddl](https://ccfddl.github.io/)
 - [Conference Partner](https://www.myhuiban.com/search?SearchForm%5Bkey%5D=PACIS)
+- [How to be a good reviewer?](https://docs.google.com/presentation/d/1flN6vhWAEELQQ67s7rqqfR_JeQhp2cXwuD80m2qe3_g/mobilepresent?slide=id.p1)
 
 ## Star History
 
