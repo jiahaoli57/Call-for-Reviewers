@@ -15,6 +15,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 - 2025.01.13
+  - *[International Conference on Artificial Neural Networks 2025](https://e-nns.org/icann-reviewer-feedback-form/)* [CCF C, CORE C]
   - *[NAACL 2025 Workshop (Trustworthy NLP)](https://docs.google.com/forms/d/e/1FAIpQLSdwKgG3oWrOj2EdHvQ9izUnphOk-NDX_-2S6b4rDn5n1oXqjw/viewform)*
 - 2025.01.11
   - *[ICLR 2025 Workshop (Deep Generative Models)](https://docs.google.com/forms/d/1_A6UNjw0jBj-4Qk-huqyv8GglgD0KWP1i9UXeopmjCs/viewform?edit_requested=true)*
