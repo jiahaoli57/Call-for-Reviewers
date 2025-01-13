@@ -14,6 +14,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2025.01.13
+  - *[NAACL 2025 Workshop (TrustNLP workshop)](https://docs.google.com/forms/d/e/1FAIpQLSdwKgG3oWrOj2EdHvQ9izUnphOk-NDX_-2S6b4rDn5n1oXqjw/viewform)*
 - 2025.01.11
   - *[ICLR 2025 Workshop (Deep Generative Models)](https://docs.google.com/forms/d/1_A6UNjw0jBj-4Qk-huqyv8GglgD0KWP1i9UXeopmjCs/viewform?edit_requested=true)*
   - *[AOM 2025](https://review.aom.org/2025/default.aspx)*
