@@ -16,6 +16,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 ## Current Calls for Reviewers
 - 2025.01.18
   - *[ICLR 2025 Workshop (Sparsity in LLMs: Deep Dive into Mixture of Experts, Quantization, Hardware, and Inference)](https://docs.google.com/forms/d/e/1FAIpQLSf0bicpSUi7mb2DaC9gyCKj8ZttXVqIYD6GEvAl6hJaMKldmQ/viewform)*
+  - *[ICLR 2025 Workshop (AI for Children)](https://docs.google.com/forms/d/e/1FAIpQLSfh7KH6OjypTIFvMBLCFlSBnVvEBJK2ovEIowNRLiJoJTj6wg/viewform)*
 - 2025.01.13
   - *[International Conference on Artificial Neural Networks 2025](https://e-nns.org/icann-reviewer-feedback-form/)* [CCF C, CORE C]
   - *[NAACL 2025 Workshop (Trustworthy NLP)](https://docs.google.com/forms/d/e/1FAIpQLSdwKgG3oWrOj2EdHvQ9izUnphOk-NDX_-2S6b4rDn5n1oXqjw/viewform)*
