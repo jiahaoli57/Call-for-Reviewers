@@ -15,6 +15,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 - 2025.01.20
+  - *[ACL 2025 Student Research Workshop](https://docs.google.com/forms/d/e/1FAIpQLSfHqPd2XH23iTxnvkNA5nNamKVbtQSDF-ZhTbKZvM1ZKVSXrA/viewform)* 
   - *[International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/CALL-FOR-REVIEWERS.html)* [CCF B, CORE A]
 - 2025.01.19
   - *[ICLR 2025 Workshop (Foundation Models in the Wild)](https://docs.google.com/forms/d/e/1FAIpQLSc3-NRihZl-fizMh2snCpwQK0Cf0rNr9WrMjdXuXfORzUpPuQ/viewform)*
