@@ -15,6 +15,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 - 2025.01.24
+  - *[1st International Conference on Green Artificial Intelligence and Industrial Applications](https://docs.google.com/forms/d/e/1FAIpQLSfYwj8ccCWs3oRr02rU-Q9ateifkR5ew2B32LiQiaVF5Ggghw/viewform)*
   - *[ICLR 2025 Workshop (AI for Nucleic Acids)](https://docs.google.com/forms/d/e/1FAIpQLSffOqB69EjcDN9E_dJ_lvSRMKg7NBCKTkWc7afWa8j0-jOZ_w/viewform)*
 - 2025.01.22
   - *[ICLR 2025 Workshop (XAI4Science)](https://docs.google.com/forms/d/e/1FAIpQLScuPuMNncpJtVyo2aSJmJKIbtKHHQfUhkl0RNv7DhKZPq5g0g/viewform)*
