@@ -15,7 +15,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 - 2025.01.27
-  - *[TMLR](https://docs.google.com/forms/d/e/1FAIpQLSdYZGuLriPg8c53EpDt4bDYMMpv04wX12rMJPT7rtK-7pNGRg)*
+  - *[TMLR (Transactions on Machine Learning Research)](https://docs.google.com/forms/d/e/1FAIpQLSdYZGuLriPg8c53EpDt4bDYMMpv04wX12rMJPT7rtK-7pNGRg)*
 - 2025.01.24
   - *[1st International Conference on Green Artificial Intelligence and Industrial Applications](https://docs.google.com/forms/d/e/1FAIpQLSfYwj8ccCWs3oRr02rU-Q9ateifkR5ew2B32LiQiaVF5Ggghw/viewform)*
   - *[ICLR 2025 Workshop (AI for Nucleic Acids)](https://docs.google.com/forms/d/e/1FAIpQLSffOqB69EjcDN9E_dJ_lvSRMKg7NBCKTkWc7afWa8j0-jOZ_w/viewform)*
