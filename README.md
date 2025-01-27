@@ -184,6 +184,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 ---
 
 - **Long-term validity 长期有效：**
+  - *[TMLR](https://docs.google.com/forms/d/e/1FAIpQLSdYZGuLriPg8c53EpDt4bDYMMpv04wX12rMJPT7rtK-7pNGRg)*
   - *[ACM TIST & IEEE TNNLS](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR4Ka3Tkd9ABHgzSzv0yP6kZUMU1JT1hRWjQyU1VGOU9YNkFXRTIxNFROSC4u&route=shorturl)*
   - *[Applied Intelligence](https://forms.gle/ohAqfxZzGWt1NNsy8)* [CCF-C, 中科院二区, JCR Q1]
   - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [Reviewers are eligible for an honorarium of $350 per day]
