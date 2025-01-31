@@ -14,6 +14,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2025.01.30
+  - *[8th Edition of the Graph Signal Processing Workshop](https://docs.google.com/forms/d/e/1FAIpQLSepFzwACm8zyPpS6nC8915SeEnhe7Npf5moGOapnh3MCNP_xQ/viewform)*
 - 2025.01.27
   - *[TMLR (Transactions on Machine Learning Research)](https://docs.google.com/forms/d/e/1FAIpQLSdYZGuLriPg8c53EpDt4bDYMMpv04wX12rMJPT7rtK-7pNGRg/viewform)*
   - *[ICLR 2025 Workshop (AI for Children)](https://docs.google.com/forms/d/e/1FAIpQLSfh7KH6OjypTIFvMBLCFlSBnVvEBJK2ovEIowNRLiJoJTj6wg/viewform)*
