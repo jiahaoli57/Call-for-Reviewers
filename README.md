@@ -81,7 +81,6 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
   - *[International Conference on Autonomous Agents and Multiagent Systems 2025 (AAMAS 2025)](https://docs.google.com/forms/d/e/1FAIpQLSdnuYD7YD4G-GAr8VKvB5VDu4Z_FeiQBkgPJvInuq5o5I1cDA/viewform)* [CCF-B]
   - *[Academy of Management 2025](https://aom.org/events/annual-meeting/reviewing?_zs=CW27K1&_zl=TCEd7)*
 - 2024.11.12
-  - *[AAAI 2025 Workshop (Deployable AI)](https://docs.google.com/forms/d/e/1FAIpQLSf9gw1rSBuk7DjJA6TFfMVgPA6LJ40-t6JbxagnPZ32Wor-hA/viewform)*
   - *[21st IEEE International Colloquium on Signal Processing & Its Applications](https://www.asprg.net/cspa2025_oc/review/signin.php)*
 - 2024.11.07
   - *[2024 6th International Conference on Soft Computing and its Engineering Applications (icSoftComp2024)](https://docs.google.com/forms/d/e/1FAIpQLSey5HoVSt9-gGEcYfCemUi_TDdCgjrkpP5lamQ-ZhnAQHes2w/viewform)*
@@ -120,8 +119,6 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
   - *[Interspeech 2025](https://www.isca-speech.org/Reviewing)* [CCF C, CORE A]
 - 2024.10.09
   - *[IEEE EDUCON 2025](https://2025.ieee-educon.org/authors/become-a-reviewer)*
-- 2024.10.08
-  - *[Joint International Scientific Conference On Information Technologies for Intelligent Decision Support](https://docs.google.com/forms/d/e/1FAIpQLSc-x_LwP4NoRk1VoBzq1GWXu-tE-HyEg-JZ6Dv-1YhAN-oHoA/viewform)*
 - 2024.10.07
   - *[IEEE Transactions on Intelligent Transportation Systems](2024-10-7.md)* [Q1, Top 5%, IF:~8]
   - *[Engineering Applications of Artificial Intelligence](2024-10-7.md)* [Q1, Top 10%, IF:7.5]
@@ -137,8 +134,6 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
   - *[Americas Conference on Information Systems (AMCIS 2025)](https://new.precisionconference.com/review_volunteering)* [CORE-A, **DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)](https://new.precisionconference.com/review_volunteering)* [**DON'T FORGET TO FILL [THIS](https://new.precisionconference.com/expertise)**]
   - *[IEEE International Symposium on Biomedical Imaging (ISBI)](https://app.smartsheet.com/b/form/91a1042f66be411fb81620f03c0c7d0c)*
-- 2024.09.27
-  - *[MIDL 2025](https://docs.google.com/forms/d/e/1FAIpQLSe7K7gTRGfadEd4L7rfe2xUOReoVyPDu3a9G2Epke9tZiLjbw/viewform)*
 - 2024.09.21
   - *[CSCW 2025](https://docs.google.com/forms/d/e/1FAIpQLSdJhldOjvzdThddgYFDs6Nk9-q3g-nur4au0I7_seEyfZjlnw/viewform)* [CCF-A, Call for AC & Ninja Reviewer!!!]
   - *[ICASSP 2025](https://docs.google.com/forms/d/1wtydYrDyOVJsGha75g5X7keSG4CUXZxQoXF6905gxPk/viewform?edit_requested=true)* [CCF-B]
@@ -157,7 +152,6 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
   - *[IEEE ISCAIE 2025](https://www.ihsanyassin.com/iscaie2025_oc/openconf.php)* [Enter "iscaie2025_rev" in the "Sign Up"]
 - 2024.09.14
   - *[IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/about-ras/latest-news/call-for-nominations-editors-and-associate-editors-for-ieee-transactions-on-automation-science-and-engineering-t-ase)* [Call for Editors and Associate Editors!!! DDL: October 1, 2024]
-  - *[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation/call-for-associate-editors-for-the-ieee-transactions-on-evolutionary-computation)* [Call for Associate Editors!!! DDL: October 16, 2024]
 - 2024.09.13
   - *[NeurIPS 2024 Workshop [AI for Accelerated Materials Discovery]](https://docs.google.com/forms/d/e/1FAIpQLSfraxa4rFvWVzobYAaBv_By2k42k3hg0WhitLaoq6saQUX8cA/viewform)*
   - *[ICLR 2025 Workshop [主题未知]](https://docs.google.com/forms/d/e/1FAIpQLSd0MSOj3rYlpai_wPvCUf6GwOR0hX1fEfTkGr5kBwOSNApmuw/viewform)* [[信息来源](https://x.com/EzgiKorkmazAI/status/1834177398822392169)]
