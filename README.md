@@ -187,7 +187,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
   - *[Applied Intelligence](https://forms.gle/ohAqfxZzGWt1NNsy8)* [CCF-C, 中科院二区, JCR Q1]
   - *[NASA](https://science.nasa.gov/researchers/volunteer-review-panels/)* [Reviewers are eligible for an honorarium of $350 per day]
   - *[UPScience Reviewer](http://www.upubscience.com/Join-Reviewer-Team.aspx?ClassID=32)*
-  - *[MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info)* [Need to fill out a lot of information 需要填一大堆信息]
+  - *[MDPI Reviewer](https://susy.mdpi.com/volunteer_reviewer_info/update)* [Need to fill out a lot of information 需要填一大堆信息]
   - *[alphaXiv Reviewer](https://docs.google.com/forms/d/11ve-4cL0axTDcqnHF66zX6greFV76yxqtnWpI5xYQj4/viewform?edit_requested=true)*
   - *[ASAPbio Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSePY3I9EateaNXy-_FR9D_jLcuUvYniAAeV0VvfuSnXQhRCAQ/viewform)*
   - *[Elsevier Reviewer](https://reviewerhub.elsevier.com/reviewer/volunteer/journal)*
