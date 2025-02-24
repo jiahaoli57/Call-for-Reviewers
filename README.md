@@ -14,6 +14,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
 
 ## Current Calls for Reviewers
+- 2025.02.24
+  - *[CVPR 2025 Workshop (Multimodal Learning for Materials Science)](https://forms.gle/WN3KP9HkqhBKk6wJ6)*
 - 2025.02.06
   - *[7th International Conference on Machine Learning and Intelligent Systems (MLIS 2025)](https://www.academicconf.com/Identity/Account/Register?returnUrl=%2FConfPapers&confName=MLIS2025&To=review)*
 - 2025.02.04
