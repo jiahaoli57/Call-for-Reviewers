@@ -7,11 +7,19 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 对于部分会议，优秀审稿人还有机会免除次年会议的注册费
 
+
+<!-- 
 # Donate to support our work
 <img align="center" src=wxpay.jpg width="25%"/> 
 
 ## :star: Star this Repository!
 尽管目前以本人手工收集为主，但在不久的未来，当 ``Call-for-Reviewers`` 拥有足够的 :star:，大家可以通过 [raise an issue](https://github.com/jiahaoli57/Call-for-Reviewers/issues) 提出想要审的会议（如某些CCF-A会），我会借这个库的名义帮你们尝试联系会议负责人，否则这类会议一般是不提供这种 "审稿人征集" 链接的
+-->
+
+## Important Notice / 重要通知
+Due to personal reasons, I will no longer actively maintain this repository. I apologize sincerely for any inconvenience this may cause.
+
+由于个人原因，我将不再积极维护此库。对于因此可能带来的不便，我深表歉意。
 
 ## Current Calls for Reviewers
 - 2025.03.10
