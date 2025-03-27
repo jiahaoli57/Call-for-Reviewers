@@ -29,6 +29,7 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 - 2025.03.10
   - *[NeurIPS 2025](https://blog.neurips.cc/2025/03/10/self-nomination-for-reviewing-at-neurips-2025/)* [Reviewer](https://forms.gle/dYVDhRMNfP8hLczM7) [AC](https://forms.gle/KtAw2Njn2JQLF2og8)
 - 2025.02.24
+  - *[10th IEEE International Conference on Automatic Control & Intelligent Systems](https://www.asprg.net/i2cacis2025_oc/openconf.php)* [Sign Up keycode: "i2cacis2025_rev"]
   - *[CVPR 2025 Workshop (Multimodal Learning for Materials Science)](https://forms.gle/WN3KP9HkqhBKk6wJ6)*
 - 2025.02.06
   - *[7th International Conference on Machine Learning and Intelligent Systems (MLIS 2025)](https://www.academicconf.com/Identity/Account/Register?returnUrl=%2FConfPapers&confName=MLIS2025&To=review)*
