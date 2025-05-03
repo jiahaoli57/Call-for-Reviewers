@@ -1,7 +1,9 @@
 # Important Notice
-Due to personal reasons, I will no longer actively maintain this repository. I apologize sincerely for any inconvenience this may cause.
+Jiahao has helped a lot of us getting chances to participated in the review sessions. Is is also so nice of him that he shared the resources to collect the calls for reviewers. I will resume updating the calls and hope people can still benefit from it.
 
-由于个人原因，我将不再积极维护此库。对于因此可能带来的不便，我深表歉意。
+Thanks Jiahao a lot again for all the amazing work!
+
+Jiahao的Repo帮助了很多人参与进了审稿的活动，并且Jiahao也非常nice地分享了他获得新的审稿需求的资源。我会利用这些共享的资源回复审稿需求的更新。再次感谢Jiahao的帮助！
 
 ---
 
@@ -26,6 +28,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.04.30
+  - *[NN4G+ 2025](https://docs.google.com/forms/d/e/1FAIpQLSdZEShiPjJNmmJztbb760wqjAMOJor7hO2qJt27BclcyTM0ZA/viewform?pli=1)* 
 - 2025.03.10
   - *[NeurIPS 2025](https://blog.neurips.cc/2025/03/10/self-nomination-for-reviewing-at-neurips-2025/)* [Reviewer](https://forms.gle/dYVDhRMNfP8hLczM7) [AC](https://forms.gle/KtAw2Njn2JQLF2og8)
 - 2025.02.24
