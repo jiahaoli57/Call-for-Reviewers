@@ -29,7 +29,12 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 - 2025.04.30
-  - *[NN4G+ 2025](https://docs.google.com/forms/d/e/1FAIpQLSdZEShiPjJNmmJztbb760wqjAMOJor7hO2qJt27BclcyTM0ZA/viewform?pli=1)* 
+  - *[Special session on Neural Networks for Graphs and Beyond (NN4G+) @ ICANN 2025](https://docs.google.com/forms/d/e/1FAIpQLSdZEShiPjJNmmJztbb760wqjAMOJor7hO2qJt27BclcyTM0ZA/viewform?pli=1)*
+  - *[3rd International Workshop on Reservoir Computing (RC 2025) @ ICANN 2025](https://docs.google.com/forms/d/e/1FAIpQLScNDy0iEmJ-WIrIu27aQGmKllxlhghGV3GtPJkOCR9ef1jtig/viewform)*
+  - *[The 4th Workshop on Transformers for Vision (T4V) at CVPR 2025](https://docs.google.com/forms/d/e/1FAIpQLSfCsNAk963vrJ5bfftYW6LkaxYaSe9x5BlRVgvwdpAmwlE2zA/viewform)*
+  - *[REALM workshop @ ACL 2025](https://docs.google.com/forms/d/e/1FAIpQLSdKTMlTpYS-RKdA8yoFZ1TS4YBC70M2E5OSLev5GnyDjH3M-w/viewform)*
+  - *[SciPy 2025](https://docs.google.com/forms/d/e/1FAIpQLSe_1c9y8R1waqkDUnGBs7k4mz8rBGPD-BusrzjB-TKYEo1bzg/viewform)*
+  - *[ICML Workshop on Technical AI Governance](https://docs.google.com/forms/d/e/1FAIpQLSdynurPDiY79H7ibeym8G_8t6VYeU8pUfgQ3tzWm2nhuM-SsQ/viewform)*
 - 2025.03.10
   - *[NeurIPS 2025](https://blog.neurips.cc/2025/03/10/self-nomination-for-reviewing-at-neurips-2025/)* [Reviewer](https://forms.gle/dYVDhRMNfP8hLczM7) [AC](https://forms.gle/KtAw2Njn2JQLF2og8)
 - 2025.02.24
