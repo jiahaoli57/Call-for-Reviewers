@@ -28,6 +28,9 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.05.04
+  - *[LatinX in AI workshop @ ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLSdJ5zmwOLifCLuQwCaZKHUZFZY3dQ7dxYfrk8j3IHVZZWCduw/viewform)*
+  - *[ACL 2025 Industry Track](https://docs.google.com/forms/d/e/1FAIpQLSffhoc2qP0y2tMnTxjaDleI-lSq3mn1cwrL6Pw0x_A0TVme4A/viewform)*
 - 2025.04.30
   - *[Special session on Neural Networks for Graphs and Beyond (NN4G+) @ ICANN 2025](https://docs.google.com/forms/d/e/1FAIpQLSdZEShiPjJNmmJztbb760wqjAMOJor7hO2qJt27BclcyTM0ZA/viewform?pli=1)*
   - *[3rd International Workshop on Reservoir Computing (RC 2025) @ ICANN 2025](https://docs.google.com/forms/d/e/1FAIpQLScNDy0iEmJ-WIrIu27aQGmKllxlhghGV3GtPJkOCR9ef1jtig/viewform)*
