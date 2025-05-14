@@ -28,6 +28,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.05.14
+  - *[ICMI 2025 Reviewer Nomination](https://docs.google.com/forms/d/e/1FAIpQLSdGGIbePB8Z3OUtMNXArTrOro-v7jN9t5w8vu4_xAwNt9JRMQ/viewform?pli=1&pli=1)*
 - 2025.05.04
   - *[LatinX in AI workshop @ ICML 2025](https://docs.google.com/forms/d/e/1FAIpQLSdJ5zmwOLifCLuQwCaZKHUZFZY3dQ7dxYfrk8j3IHVZZWCduw/viewform)*
   - *[ACL 2025 Industry Track](https://docs.google.com/forms/d/e/1FAIpQLSffhoc2qP0y2tMnTxjaDleI-lSq3mn1cwrL6Pw0x_A0TVme4A/viewform)*
