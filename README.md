@@ -28,6 +28,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.05.19
+  - *[47th DAGM German Conference on Pattern Recognition (GCPR 2025)](https://docs.google.com/forms/d/e/1FAIpQLSdreqb0-BGFwqsjjVHRe55flkQiVZF8K6wkv7C2N36f7ZFGjQ/viewform)*
 - 2025.05.14
   - *[ICMI 2025 Reviewer Nomination](https://docs.google.com/forms/d/e/1FAIpQLSdGGIbePB8Z3OUtMNXArTrOro-v7jN9t5w8vu4_xAwNt9JRMQ/viewform?pli=1&pli=1)*
 - 2025.05.04
