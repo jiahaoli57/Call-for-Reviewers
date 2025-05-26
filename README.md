@@ -28,6 +28,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.05.26
+  - *[WiCV @ ICCV 2025 Workshop Reviewer Self-Nomination](https://docs.google.com/forms/d/e/1FAIpQLScqlHllkihn1bL1Bwqa0xBBH7BTHyRNaV7cmnTucbB0_x9-FA/viewform )* 
 - 2025.05.21
   - *[NeurIPS 2025 Workshop (hosted by Huawei Paris Research Center)](https://docs.google.com/forms/d/e/1FAIpQLSeEqrohH0Y1XyYSRPc5O98_3hQM25Uge35qxZNrEq7pu96gjQ/viewform)* [由华为巴黎团队组织]
 - 2025.05.19
