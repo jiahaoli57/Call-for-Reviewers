@@ -28,6 +28,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.05.29
+  - *[NeurIPS 2025 Workshop: Global Mindscapes: Exploring AI’s Value, Cultural, and Language Representation](https://docs.google.com/forms/d/e/1FAIpQLSc_qh4E3n9dGbjQCdP-BbJFS5zmx-iQkujGUbjCVrZzm88sqw/viewform)*
 - 2025.05.27
   - *[NeurIPS 2025 Position Paper Track Reviewer Nomination](https://docs.google.com/forms/d/e/1FAIpQLSf7hZ9mO8vvg6Enzf-jK543aU5eI6sGtzb1LE8Ete34P6TBSw/viewform)*
 - 2025.05.21
