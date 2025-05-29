@@ -29,9 +29,13 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 - 2025.05.29
-  - *[NeurIPS 2025 Workshop: Global Mindscapes: Exploring AI’s Value, Cultural, and Language Representation](https://docs.google.com/forms/d/e/1FAIpQLSc_qh4E3n9dGbjQCdP-BbJFS5zmx-iQkujGUbjCVrZzm88sqw/viewform)*
+  - *[NeurIPS 2025 Workshop (Global Mindscapes: Exploring AI’s Value, Cultural, and Language Representation)](https://docs.google.com/forms/d/e/1FAIpQLSc_qh4E3n9dGbjQCdP-BbJFS5zmx-iQkujGUbjCVrZzm88sqw/viewform)*
+- 2025.05.28
+  - *[NeurIPS 2025 Workshop (What Makes a Good Video?)](https://docs.google.com/forms/d/e/1FAIpQLSc9IQWf6sMQImk9Xm_YZY86KR1Yaq0zcZcYwgz6p2XchYWlnQ/viewform?usp=dialog)* [[Homepage](https://what-makes-good-video.github.io)]
 - 2025.05.27
   - *[NeurIPS 2025 Position Paper Track Reviewer Nomination](https://docs.google.com/forms/d/e/1FAIpQLSf7hZ9mO8vvg6Enzf-jK543aU5eI6sGtzb1LE8Ete34P6TBSw/viewform)*
+- 2025.05.26
+  - *[WiCV @ ICCV 2025 Workshop Reviewer Self-Nomination](https://docs.google.com/forms/d/e/1FAIpQLScqlHllkihn1bL1Bwqa0xBBH7BTHyRNaV7cmnTucbB0_x9-FA/viewform)* 
 - 2025.05.21
   - *[NeurIPS 2025 Workshop (hosted by Huawei Paris Research Center)](https://docs.google.com/forms/d/e/1FAIpQLSeEqrohH0Y1XyYSRPc5O98_3hQM25Uge35qxZNrEq7pu96gjQ/viewform)* [由华为巴黎团队组织]
 - 2025.05.19
