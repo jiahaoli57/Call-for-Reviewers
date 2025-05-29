@@ -28,6 +28,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.05.28
+  - *[NeurIPS 2025 Workshop (What Makes a Good Video?)](https://docs.google.com/forms/d/e/1FAIpQLSc9IQWf6sMQImk9Xm_YZY86KR1Yaq0zcZcYwgz6p2XchYWlnQ/viewform?usp=dialog)* [[Homepage](https://what-makes-good-video.github.io)]
 - 2025.05.27
   - *[NeurIPS 2025 Position Paper Track Reviewer Nomination](https://docs.google.com/forms/d/e/1FAIpQLSf7hZ9mO8vvg6Enzf-jK543aU5eI6sGtzb1LE8Ete34P6TBSw/viewform)*
 - 2025.05.21
