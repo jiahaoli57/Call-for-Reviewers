@@ -28,6 +28,9 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+
+- 2025.06.22
+  - *[BMVC 2025 workshop (Multisensory Intelligence for Human Perception)](https://forms.gle/qk2RubhEPMjG9kJYA)* [[Homepage](https://weihaox.github.io/bmvc2025mpi/)]
 - 2025.05.29
   - *[NeurIPS 2025 Workshop (Global Mindscapes: Exploring AI’s Value, Cultural, and Language Representation)](https://docs.google.com/forms/d/e/1FAIpQLSc_qh4E3n9dGbjQCdP-BbJFS5zmx-iQkujGUbjCVrZzm88sqw/viewform)*
 - 2025.05.28
