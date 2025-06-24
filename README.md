@@ -28,6 +28,11 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.06.24
+  - *[Socially Responsible Language Modeling Research (SoLaR) 2025](https://docs.google.com/forms/d/e/1FAIpQLSd08K97XKPe87w2bm3F-IxNZi74DGrUyCtmjGd19MlEGX1miw/viewform)*
+  - *[NeurIPS 2025 Call for Ethics Reviewers](https://neurips.cc/Conferences/2025/CallForEthicsReviewers)*
+  - *[CV4DC 2025 Reviewer](https://docs.google.com/forms/d/e/1FAIpQLSfERtk_ONJ_sL_KlpsqEf_sJDC-siWF_9DfnxCZ37kJW5ohIg/viewform)*
+  - *[MICAI 2025](https://docs.google.com/forms/d/e/1FAIpQLSch4LAGwuApEWEDflyjtTXGKtvay4MBkWphlLCJu4pnvTyz1g/viewform)*
 - 2025.06.22
   - *[BMVC 2025 workshop (Multisensory Intelligence for Human Perception)](https://forms.gle/qk2RubhEPMjG9kJYA)* [[Homepage](https://weihaox.github.io/bmvc2025mpi/)]
 - 2025.06.19
