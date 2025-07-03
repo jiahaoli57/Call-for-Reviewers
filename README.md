@@ -1,11 +1,4 @@
-# Important Notice
-Jiahao has helped a lot of us getting chances to participated in the review sessions. Is is also so nice of him that he shared the resources to collect the calls for reviewers. I will resume updating the calls and hope people can still benefit from it.
 
-Thanks Jiahao a lot again for all the amazing work!
-
-Jiahao的Repo帮助了很多人参与进了审稿的活动，并且Jiahao也非常nice地分享了他获得新的审稿需求的资源。我会利用这些共享的资源回复审稿需求的更新。再次感谢Jiahao的帮助！
-
----
 
 # Call-for-Reviewer
 
