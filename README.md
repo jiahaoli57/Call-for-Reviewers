@@ -21,6 +21,9 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.09.01
+  - *[ICLR 2025 Reviewer](https://forms.gle/MthdXA1bmr8cHo6h8)*
+
 - 2025.08.06
   - *[Constrained Optimization for Machine Learning Workshop at NeurIPS 2025](https://docs.google.com/forms/d/e/1FAIpQLSffNLYMJRXUwG5vSPMFQU4F2g_X-wly_yip_wr1g03iyXJxcQ/viewform?pli=1)*
   - *[LoG 2025](https://docs.google.com/forms/d/e/1FAIpQLScfIT7ccKYlMIMWxKUwwd6hC6mO8DItjrguB9lozjqrPmjQpA/viewform?pli=1)*
