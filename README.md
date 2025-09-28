@@ -21,6 +21,11 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
+- 2025.09.28
+  - *[Bangla Language Processing Workshop, @AACL-IJCNLP 2025](https://docs.google.com/forms/d/e/1FAIpQLSdVxFfvggrTFom0s0aFM_z7WvKd2mQ7NwpQBk6DXRQDe5Atgw/viewform?pli=1)*
+  - *[ECIR 2026 PC](https://docs.google.com/forms/d/e/1FAIpQLSdRdoeCB5xUQndapFm3yo1qooH4CIp4CHCu7yneNoRG1sCCqg/viewform?pli=1)*
+  - *[AAAI Workshop](https://docs.google.com/forms/d/e/1FAIpQLSfGOwE0kFQ_6j-lgIZmdktQvezhUFecnCGX7lGH3QcZm6GamA/viewform?pli=1)*
+
 - 2025.09.01
   - *[ICLR 2026 Reviewer](https://forms.gle/MthdXA1bmr8cHo6h8)*
 
