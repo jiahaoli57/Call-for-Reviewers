@@ -22,6 +22,8 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 
+- 2026.01.15
+  - *[AIAI 2026 Reviewer](https://ifipaiai.org/reviewer-form/)*
 - 2025.10.15
   - *[Transactions on Machine Learning Research (TMLR)](https://docs.google.com/forms/d/e/1FAIpQLSedm0ke3Y8BUdZPqdkVlnFM3GVTA648bKSFne9zb3-WdoSQrg/viewform)*
 - 2025.09.28
