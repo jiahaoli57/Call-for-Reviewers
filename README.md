@@ -22,6 +22,11 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 
 ## Current Calls for Reviewers
 
+- 2026.01.19
+  - *[Efficient Spatial Reasoning Workshop @ ICLR 2026](https://docs.google.com/forms/d/e/1FAIpQLScvLdYKikpbzjfpI05mcfWF5hhy9cRUqE85BAa-v6DDIuKfag/viewform?pli=1)*
+  - *[ADFM@CVPR 2026](https://docs.google.com/forms/d/e/1FAIpQLSeSF0PZ2YwRUQB5cSnB6yEUnRsipoVkIuH6EB6oTWLEqsDhRg/viewform?pli=1)*
+  - *[IEEE-Technically Co-Sponsored International Conference (IEC2T-2026)-ECE Department-  AKGEC Ghaziabad](https://docs.google.com/forms/d/e/1FAIpQLSdAATaqmjmaSKb2u1zxwtS9zCwsghKOofM2L2v4K5gwhcPghQ/viewform?pli=1)*
+
 - 2025.10.15
   - *[Transactions on Machine Learning Research (TMLR)](https://docs.google.com/forms/d/e/1FAIpQLSedm0ke3Y8BUdZPqdkVlnFM3GVTA648bKSFne9zb3-WdoSQrg/viewform)*
 - 2025.09.28
