@@ -21,7 +21,10 @@ For some conferences, outstanding reviewers may also have the opportunity to wai
 -->
 
 ## Current Calls for Reviewers
-
+- 2026.02.06
+  - *[Neural Networks for Graphs and Beyond (NN4G+) @ ICANN 2026](https://docs.google.com/forms/d/e/1FAIpQLScsKBhZRjEr1aK0V7Ab1G8pfKobiqZiKOX8MF3wwg639fLfOQ/viewform?pli=1)*
+  - *[ACM PEARC 2026](https://docs.google.com/forms/d/e/1FAIpQLSeXvv_OjyEStmu-F-StafwR2K2G3OaZ3hhPIPTpOlFLh7m-9Q/viewform?pli=1)*
+  - *[Agents in the Wild @ICLR2026](https://docs.google.com/forms/d/e/1FAIpQLScpntJz-Lz29nDUoxXIkb_-Lwpk6xZOnX6TvlDM-f8ewTA56w/viewform?pli=1)*
 - 2026.01.19
   - *[Efficient Spatial Reasoning Workshop @ ICLR 2026](https://docs.google.com/forms/d/e/1FAIpQLScvLdYKikpbzjfpI05mcfWF5hhy9cRUqE85BAa-v6DDIuKfag/viewform?pli=1)*
   - *[ADFM@CVPR 2026](https://docs.google.com/forms/d/e/1FAIpQLSeSF0PZ2YwRUQB5cSnB6yEUnRsipoVkIuH6EB6oTWLEqsDhRg/viewform?pli=1)*
